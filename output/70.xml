@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>While</word>
+            <lemma>while</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>McFarlane</word>
+            <lemma>McFarlane</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>'s</word>
+            <lemma>'s</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>animation</word>
+            <lemma>animation</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>lifts</word>
+            <lemma>lift</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>film</word>
+            <lemma>film</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>firmly</word>
+            <lemma>firmly</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>above</word>
+            <lemma>above</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>57</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>level</word>
+            <lemma>level</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>69</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>other</word>
+            <lemma>other</lemma>
+            <CharacterOffsetBegin>70</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>coming-of-age</word>
+            <lemma>coming-of-age</lemma>
+            <CharacterOffsetBegin>76</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>films</word>
+            <lemma>film</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>...</word>
+            <lemma>...</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>99</CharacterOffsetEnd>
+            <POS>:</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>100</CharacterOffsetBegin>
+            <CharacterOffsetEnd>102</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>'s</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>103</CharacterOffsetBegin>
+            <CharacterOffsetEnd>105</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>also</word>
+            <lemma>also</lemma>
+            <CharacterOffsetBegin>106</CharacterOffsetBegin>
+            <CharacterOffsetEnd>110</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>so</word>
+            <lemma>so</lemma>
+            <CharacterOffsetBegin>111</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>jarring</word>
+            <lemma>jarring</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>121</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>that</word>
+            <lemma>that</lemma>
+            <CharacterOffsetBegin>122</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>127</CharacterOffsetBegin>
+            <CharacterOffsetEnd>129</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>'s</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>130</CharacterOffsetBegin>
+            <CharacterOffsetEnd>132</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="25">
+            <word>hard</word>
+            <lemma>hard</lemma>
+            <CharacterOffsetBegin>133</CharacterOffsetBegin>
+            <CharacterOffsetEnd>137</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="26">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>138</CharacterOffsetBegin>
+            <CharacterOffsetEnd>140</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="27">
+            <word>get</word>
+            <lemma>get</lemma>
+            <CharacterOffsetBegin>141</CharacterOffsetBegin>
+            <CharacterOffsetEnd>144</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="28">
+            <word>back</word>
+            <lemma>back</lemma>
+            <CharacterOffsetBegin>145</CharacterOffsetBegin>
+            <CharacterOffsetEnd>149</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="29">
+            <word>into</word>
+            <lemma>into</lemma>
+            <CharacterOffsetBegin>150</CharacterOffsetBegin>
+            <CharacterOffsetEnd>154</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="30">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>155</CharacterOffsetBegin>
+            <CharacterOffsetEnd>158</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="31">
+            <word>boys</word>
+            <lemma>boy</lemma>
+            <CharacterOffsetBegin>159</CharacterOffsetBegin>
+            <CharacterOffsetEnd>163</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="32">
+            <word>'</word>
+            <lemma>'</lemma>
+            <CharacterOffsetBegin>164</CharacterOffsetBegin>
+            <CharacterOffsetEnd>165</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="33">
+            <word>story</word>
+            <lemma>story</lemma>
+            <CharacterOffsetBegin>166</CharacterOffsetBegin>
+            <CharacterOffsetEnd>171</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="34">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>172</CharacterOffsetBegin>
+            <CharacterOffsetEnd>173</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (SBAR (IN While) (S (NP (NP (NNP McFarlane) (POS 's)) (NN animation)) (VP (VBZ lifts) (NP (DT the) (NN film)) (PP (ADVP (RB firmly)) (IN above) (NP (NP (DT the) (NN level)) (PP (IN of) (NP (JJ other) (JJ coming-of-age) (NNS films)))))))) (: ...) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB also)) (ADJP (RB so) (JJ jarring)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (VB get) (ADVP (RB back)) (PP (IN into) (NP (NP (DT the) (NNS boys) (POS ')) (NN story))))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="21">jarring</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="5">lifts</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="4">animation</governor>
+            <dependent idx="2">McFarlane</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="2">McFarlane</governor>
+            <dependent idx="3">'s</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">lifts</governor>
+            <dependent idx="4">animation</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="21">jarring</governor>
+            <dependent idx="5">lifts</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">film</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">lifts</governor>
+            <dependent idx="7">film</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="9">above</governor>
+            <dependent idx="8">firmly</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">lifts</governor>
+            <dependent idx="9">above</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">level</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="9">above</governor>
+            <dependent idx="11">level</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="11">level</governor>
+            <dependent idx="12">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">films</governor>
+            <dependent idx="13">other</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">films</governor>
+            <dependent idx="14">coming-of-age</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="12">of</governor>
+            <dependent idx="15">films</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">jarring</governor>
+            <dependent idx="17">it</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="21">jarring</governor>
+            <dependent idx="18">'s</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="21">jarring</governor>
+            <dependent idx="19">also</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="21">jarring</governor>
+            <dependent idx="20">so</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="25">hard</governor>
+            <dependent idx="22">that</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">hard</governor>
+            <dependent idx="23">it</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="25">hard</governor>
+            <dependent idx="24">'s</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="21">jarring</governor>
+            <dependent idx="25">hard</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="27">get</governor>
+            <dependent idx="26">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="25">hard</governor>
+            <dependent idx="27">get</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="27">get</governor>
+            <dependent idx="28">back</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="27">get</governor>
+            <dependent idx="29">into</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="31">boys</governor>
+            <dependent idx="30">the</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="33">story</governor>
+            <dependent idx="31">boys</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="29">into</governor>
+            <dependent idx="33">story</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="21">jarring</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="5">lifts</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="4">animation</governor>
+            <dependent idx="2">McFarlane</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">lifts</governor>
+            <dependent idx="4">animation</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="21">jarring</governor>
+            <dependent idx="5">lifts</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">film</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">lifts</governor>
+            <dependent idx="7">film</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">lifts</governor>
+            <dependent idx="8">firmly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">level</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="prep_above">
+            <governor idx="5">lifts</governor>
+            <dependent idx="11">level</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">films</governor>
+            <dependent idx="13">other</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">films</governor>
+            <dependent idx="14">coming-of-age</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="11">level</governor>
+            <dependent idx="15">films</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">jarring</governor>
+            <dependent idx="17">it</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="21">jarring</governor>
+            <dependent idx="18">'s</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="21">jarring</governor>
+            <dependent idx="19">also</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="21">jarring</governor>
+            <dependent idx="20">so</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="25">hard</governor>
+            <dependent idx="22">that</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">hard</governor>
+            <dependent idx="23">it</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="25">hard</governor>
+            <dependent idx="24">'s</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="21">jarring</governor>
+            <dependent idx="25">hard</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="27">get</governor>
+            <dependent idx="26">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="25">hard</governor>
+            <dependent idx="27">get</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="27">get</governor>
+            <dependent idx="28">back</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="31">boys</governor>
+            <dependent idx="30">the</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="33">story</governor>
+            <dependent idx="31">boys</dependent>
+          </dep>
+          <dep type="prep_into">
+            <governor idx="27">get</governor>
+            <dependent idx="33">story</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="21">jarring</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="5">lifts</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="4">animation</governor>
+            <dependent idx="2">McFarlane</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">lifts</governor>
+            <dependent idx="4">animation</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="21">jarring</governor>
+            <dependent idx="5">lifts</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">film</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">lifts</governor>
+            <dependent idx="7">film</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">lifts</governor>
+            <dependent idx="8">firmly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">level</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="prep_above">
+            <governor idx="5">lifts</governor>
+            <dependent idx="11">level</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">films</governor>
+            <dependent idx="13">other</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">films</governor>
+            <dependent idx="14">coming-of-age</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="11">level</governor>
+            <dependent idx="15">films</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">jarring</governor>
+            <dependent idx="17">it</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="21">jarring</governor>
+            <dependent idx="18">'s</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="21">jarring</governor>
+            <dependent idx="19">also</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="21">jarring</governor>
+            <dependent idx="20">so</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="25">hard</governor>
+            <dependent idx="22">that</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">hard</governor>
+            <dependent idx="23">it</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="25">hard</governor>
+            <dependent idx="24">'s</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="21">jarring</governor>
+            <dependent idx="25">hard</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="27">get</governor>
+            <dependent idx="26">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="25">hard</governor>
+            <dependent idx="27">get</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="27">get</governor>
+            <dependent idx="28">back</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="31">boys</governor>
+            <dependent idx="30">the</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="33">story</governor>
+            <dependent idx="31">boys</dependent>
+          </dep>
+          <dep type="prep_into">
+            <governor idx="27">get</governor>
+            <dependent idx="33">story</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>2</start>
+          <end>5</end>
+          <head>4</head>
+          <text>McFarlane 's animation</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>17</start>
+          <end>18</end>
+          <head>17</head>
+          <text>it</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>23</start>
+          <end>24</end>
+          <head>23</head>
+          <text>it</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

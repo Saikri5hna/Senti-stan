@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>invincible</word>
+            <lemma>invincible</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>Werner</word>
+            <lemma>Werner</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>Herzog</word>
+            <lemma>Herzog</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>alive</word>
+            <lemma>alive</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>well</word>
+            <lemma>well</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>living</word>
+            <lemma>live</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>LA</word>
+            <lemma>LA</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (X (X (DT The) (ADJP (JJ invincible))) (NP (NP (NP (NNP Werner) (NNP Herzog)) (SBAR (S (VP (VBZ is) (ADJP (JJ alive) (CC and) (RB well)))))) (CC and) (NP (NP (VBG living)) (PP (IN in) (NP (NNP LA))))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">Herzog</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">invincible</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="2">invincible</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="3">Werner</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">alive</governor>
+            <dependent idx="5">is</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="6">alive</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">alive</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">alive</governor>
+            <dependent idx="8">well</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="9">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="10">living</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="10">living</governor>
+            <dependent idx="11">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="11">in</governor>
+            <dependent idx="12">LA</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">Herzog</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">invincible</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="2">invincible</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="3">Werner</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">alive</governor>
+            <dependent idx="5">is</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="6">alive</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">alive</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">alive</governor>
+            <dependent idx="8">well</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="10">living</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="10">living</governor>
+            <dependent idx="12">LA</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">Herzog</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">invincible</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="2">invincible</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="3">Werner</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">alive</governor>
+            <dependent idx="5">is</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="6">alive</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">alive</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">alive</governor>
+            <dependent idx="8">well</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="4">Herzog</governor>
+            <dependent idx="10">living</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="10">living</governor>
+            <dependent idx="12">LA</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

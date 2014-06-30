@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Cantet</word>
+            <lemma>Cantet</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>perfectly</word>
+            <lemma>perfectly</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>captures</word>
+            <lemma>capture</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>hotel</word>
+            <lemma>hotel</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>lobbies</word>
+            <lemma>lobby</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>two-lane</word>
+            <lemma>two-lane</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>highways</word>
+            <lemma>highway</lemma>
+            <CharacterOffsetBegin>55</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>66</CharacterOffsetBegin>
+            <CharacterOffsetEnd>69</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>roadside</word>
+            <lemma>roadside</lemma>
+            <CharacterOffsetBegin>70</CharacterOffsetBegin>
+            <CharacterOffsetEnd>78</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>cafes</word>
+            <lemma>cafe</lemma>
+            <CharacterOffsetBegin>79</CharacterOffsetBegin>
+            <CharacterOffsetEnd>84</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>that</word>
+            <lemma>that</lemma>
+            <CharacterOffsetBegin>85</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>WDT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>permeate</word>
+            <lemma>permeate</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>98</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>Vincent</word>
+            <lemma>Vincent</lemma>
+            <CharacterOffsetBegin>99</CharacterOffsetBegin>
+            <CharacterOffsetEnd>106</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>'s</word>
+            <lemma>'s</lemma>
+            <CharacterOffsetBegin>107</CharacterOffsetBegin>
+            <CharacterOffsetEnd>109</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>days</word>
+            <lemma>day</lemma>
+            <CharacterOffsetBegin>110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>114</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>DURATION</NER>
+            <NormalizedNER>PXD</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DURATION">PXD</Timex>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP Cantet)) (VP (ADVP (RB perfectly)) (VBZ captures) (NP (NP (DT the) (NN hotel) (NNS lobbies)) (, ,) (NP (JJ two-lane) (NNS highways)) (, ,) (CC and) (NP (NP (NN roadside) (NNS cafes)) (SBAR (WHNP (WDT that)) (S (VP (VBP permeate) (NP (NP (NNP Vincent) (POS 's)) (NNS days)))))))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">captures</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">captures</governor>
+            <dependent idx="1">Cantet</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="3">captures</governor>
+            <dependent idx="2">perfectly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="5">hotel</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">captures</governor>
+            <dependent idx="6">lobbies</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">highways</governor>
+            <dependent idx="8">two-lane</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="9">highways</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="11">and</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="13">cafes</governor>
+            <dependent idx="12">roadside</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="13">cafes</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">permeate</governor>
+            <dependent idx="14">that</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="13">cafes</governor>
+            <dependent idx="15">permeate</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">days</governor>
+            <dependent idx="16">Vincent</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="16">Vincent</governor>
+            <dependent idx="17">'s</dependent>
+          </dep>
+          <dep type="tmod">
+            <governor idx="15">permeate</governor>
+            <dependent idx="18">days</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">captures</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">captures</governor>
+            <dependent idx="1">Cantet</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="3">captures</governor>
+            <dependent idx="2">perfectly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="5">hotel</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">captures</governor>
+            <dependent idx="6">lobbies</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">highways</governor>
+            <dependent idx="8">two-lane</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="9">highways</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="13">cafes</governor>
+            <dependent idx="12">roadside</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="13">cafes</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">permeate</governor>
+            <dependent idx="14">that</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="13">cafes</governor>
+            <dependent idx="15">permeate</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">days</governor>
+            <dependent idx="16">Vincent</dependent>
+          </dep>
+          <dep type="tmod">
+            <governor idx="15">permeate</governor>
+            <dependent idx="18">days</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">captures</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">captures</governor>
+            <dependent idx="1">Cantet</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="3">captures</governor>
+            <dependent idx="2">perfectly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="5">hotel</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">captures</governor>
+            <dependent idx="6">lobbies</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">highways</governor>
+            <dependent idx="8">two-lane</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">captures</governor>
+            <dependent idx="9">highways</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="9">highways</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="13">cafes</governor>
+            <dependent idx="12">roadside</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">captures</governor>
+            <dependent idx="13">cafes</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="6">lobbies</governor>
+            <dependent idx="13">cafes</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">permeate</governor>
+            <dependent idx="14">that</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="13">cafes</governor>
+            <dependent idx="15">permeate</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">days</governor>
+            <dependent idx="16">Vincent</dependent>
+          </dep>
+          <dep type="tmod">
+            <governor idx="15">permeate</governor>
+            <dependent idx="18">days</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>This</word>
+            <lemma>this</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>startling</word>
+            <lemma>startling</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>film</word>
+            <lemma>film</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>that</word>
+            <lemma>that</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>WDT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>gives</word>
+            <lemma>give</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>you</word>
+            <lemma>you</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>fascinating</word>
+            <lemma>fascinating</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>albeit</word>
+            <lemma>albeit</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>depressing</word>
+            <lemma>depressing</lemma>
+            <CharacterOffsetBegin>63</CharacterOffsetBegin>
+            <CharacterOffsetEnd>73</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>view</word>
+            <lemma>view</lemma>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>78</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>79</CharacterOffsetBegin>
+            <CharacterOffsetEnd>81</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>Iranian</word>
+            <lemma>iranian</lemma>
+            <CharacterOffsetBegin>82</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>rural</word>
+            <lemma>rural</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>life</word>
+            <lemma>life</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>close</word>
+            <lemma>close</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>106</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>107</CharacterOffsetBegin>
+            <CharacterOffsetEnd>109</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>Iraqi</word>
+            <lemma>iraqi</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>119</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>border</word>
+            <lemma>border</lemma>
+            <CharacterOffsetBegin>120</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>127</CharacterOffsetBegin>
+            <CharacterOffsetEnd>128</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ startling) (NN film)) (SBAR (WHNP (WDT that)) (S (VP (VBZ gives) (NP (PRP you)) (NP (NP (DT a) (JJ fascinating) (, ,) (ADJP (ADVP (IN albeit)) (JJ depressing)) (NN view)) (PP (IN of) (NP (NP (JJ Iranian) (JJ rural) (NN life) (NN close)) (PP (TO to) (NP (DT the) (JJ Iraqi) (NN border))))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">film</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">film</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">film</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">film</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">film</governor>
+            <dependent idx="4">startling</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">gives</governor>
+            <dependent idx="6">that</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="5">film</governor>
+            <dependent idx="7">gives</dependent>
+          </dep>
+          <dep type="iobj">
+            <governor idx="7">gives</governor>
+            <dependent idx="8">you</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">view</governor>
+            <dependent idx="9">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">view</governor>
+            <dependent idx="10">fascinating</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">depressing</governor>
+            <dependent idx="12">albeit</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">view</governor>
+            <dependent idx="13">depressing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">gives</governor>
+            <dependent idx="14">view</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="14">view</governor>
+            <dependent idx="15">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">close</governor>
+            <dependent idx="16">Iranian</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">close</governor>
+            <dependent idx="17">rural</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="19">close</governor>
+            <dependent idx="18">life</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="15">of</governor>
+            <dependent idx="19">close</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="19">close</governor>
+            <dependent idx="20">to</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="23">border</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="23">border</governor>
+            <dependent idx="22">Iraqi</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="20">to</governor>
+            <dependent idx="23">border</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">film</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">film</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">film</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">film</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">film</governor>
+            <dependent idx="4">startling</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">gives</governor>
+            <dependent idx="6">that</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="5">film</governor>
+            <dependent idx="7">gives</dependent>
+          </dep>
+          <dep type="iobj">
+            <governor idx="7">gives</governor>
+            <dependent idx="8">you</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">view</governor>
+            <dependent idx="9">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">view</governor>
+            <dependent idx="10">fascinating</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">depressing</governor>
+            <dependent idx="12">albeit</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">view</governor>
+            <dependent idx="13">depressing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">gives</governor>
+            <dependent idx="14">view</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">close</governor>
+            <dependent idx="16">Iranian</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">close</governor>
+            <dependent idx="17">rural</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="19">close</governor>
+            <dependent idx="18">life</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="14">view</governor>
+            <dependent idx="19">close</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="23">border</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="23">border</governor>
+            <dependent idx="22">Iraqi</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="19">close</governor>
+            <dependent idx="23">border</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">film</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">film</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">film</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">film</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">film</governor>
+            <dependent idx="4">startling</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">gives</governor>
+            <dependent idx="6">that</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="5">film</governor>
+            <dependent idx="7">gives</dependent>
+          </dep>
+          <dep type="iobj">
+            <governor idx="7">gives</governor>
+            <dependent idx="8">you</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">view</governor>
+            <dependent idx="9">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">view</governor>
+            <dependent idx="10">fascinating</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">depressing</governor>
+            <dependent idx="12">albeit</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">view</governor>
+            <dependent idx="13">depressing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">gives</governor>
+            <dependent idx="14">view</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">close</governor>
+            <dependent idx="16">Iranian</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">close</governor>
+            <dependent idx="17">rural</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="19">close</governor>
+            <dependent idx="18">life</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="14">view</governor>
+            <dependent idx="19">close</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="23">border</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="23">border</governor>
+            <dependent idx="22">Iraqi</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="19">close</governor>
+            <dependent idx="23">border</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>3</start>
+          <end>24</end>
+          <head>5</head>
+          <text>a startling film that gives you a fascinating , albeit depressing view of Iranian rural life close to the Iraqi border</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>1</start>
+          <end>2</end>
+          <head>1</head>
+          <text>This</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

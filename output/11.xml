@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>While</word>
+            <lemma>while</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>would</word>
+            <lemma>would</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>be</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>easy</word>
+            <lemma>easy</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>give</word>
+            <lemma>give</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>Crush</word>
+            <lemma>Crush</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>new</word>
+            <lemma>new</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>title</word>
+            <lemma>title</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>Two</word>
+            <lemma>two</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>2.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>Weddings</word>
+            <lemma>wedding</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>72</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>Funeral</word>
+            <lemma>Funeral</lemma>
+            <CharacterOffsetBegin>73</CharacterOffsetBegin>
+            <CharacterOffsetEnd>80</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>81</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>85</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>'s</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>86</CharacterOffsetBegin>
+            <CharacterOffsetEnd>88</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>89</CharacterOffsetBegin>
+            <CharacterOffsetEnd>90</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>far</word>
+            <lemma>far</lemma>
+            <CharacterOffsetBegin>91</CharacterOffsetBegin>
+            <CharacterOffsetEnd>94</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>more</word>
+            <lemma>more</lemma>
+            <CharacterOffsetBegin>95</CharacterOffsetBegin>
+            <CharacterOffsetEnd>99</CharacterOffsetEnd>
+            <POS>RBR</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>thoughtful</word>
+            <lemma>thoughtful</lemma>
+            <CharacterOffsetBegin>100</CharacterOffsetBegin>
+            <CharacterOffsetEnd>110</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="25">
+            <word>film</word>
+            <lemma>film</lemma>
+            <CharacterOffsetBegin>111</CharacterOffsetBegin>
+            <CharacterOffsetEnd>115</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="26">
+            <word>than</word>
+            <lemma>than</lemma>
+            <CharacterOffsetBegin>116</CharacterOffsetBegin>
+            <CharacterOffsetEnd>120</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="27">
+            <word>any</word>
+            <lemma>any</lemma>
+            <CharacterOffsetBegin>121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>124</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="28">
+            <word>slice</word>
+            <lemma>slice</lemma>
+            <CharacterOffsetBegin>125</CharacterOffsetBegin>
+            <CharacterOffsetEnd>130</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="29">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>131</CharacterOffsetBegin>
+            <CharacterOffsetEnd>133</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="30">
+            <word>Hugh</word>
+            <lemma>Hugh</lemma>
+            <CharacterOffsetBegin>134</CharacterOffsetBegin>
+            <CharacterOffsetEnd>138</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="31">
+            <word>Grant</word>
+            <lemma>Grant</lemma>
+            <CharacterOffsetBegin>139</CharacterOffsetBegin>
+            <CharacterOffsetEnd>144</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="32">
+            <word>whimsy</word>
+            <lemma>whimsy</lemma>
+            <CharacterOffsetBegin>145</CharacterOffsetBegin>
+            <CharacterOffsetEnd>151</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="33">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>152</CharacterOffsetBegin>
+            <CharacterOffsetEnd>153</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (SBAR (IN While) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (JJ easy) (S (VP (TO to) (VP (VB give) (NP (NNP Crush)) (NP (NP (DT the) (JJ new) (NN title)) (PP (IN of) (NP (NP (CD Two) (NNS Weddings)) (CC and) (NP (DT a) (NNP Funeral))))))))))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (DT a) (ADJP (RB far) (RBR more) (JJ thoughtful)) (NN film)) (PP (IN than) (NP (NP (DT any) (NN slice)) (PP (IN of) (NP (NNP Hugh) (NNP Grant) (NN whimsy))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="25">film</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="5">easy</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">easy</governor>
+            <dependent idx="2">it</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">easy</governor>
+            <dependent idx="3">would</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">easy</governor>
+            <dependent idx="4">be</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="25">film</governor>
+            <dependent idx="5">easy</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="7">give</governor>
+            <dependent idx="6">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">easy</governor>
+            <dependent idx="7">give</dependent>
+          </dep>
+          <dep type="iobj">
+            <governor idx="7">give</governor>
+            <dependent idx="8">Crush</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">title</governor>
+            <dependent idx="9">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">title</governor>
+            <dependent idx="10">new</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">give</governor>
+            <dependent idx="11">title</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="11">title</governor>
+            <dependent idx="12">of</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="14">Weddings</governor>
+            <dependent idx="13">Two</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="12">of</governor>
+            <dependent idx="14">Weddings</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="14">Weddings</governor>
+            <dependent idx="15">and</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">Funeral</governor>
+            <dependent idx="16">a</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="14">Weddings</governor>
+            <dependent idx="17">Funeral</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">film</governor>
+            <dependent idx="19">it</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="25">film</governor>
+            <dependent idx="20">'s</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="25">film</governor>
+            <dependent idx="21">a</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="24">thoughtful</governor>
+            <dependent idx="22">far</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="24">thoughtful</governor>
+            <dependent idx="23">more</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">film</governor>
+            <dependent idx="24">thoughtful</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="25">film</governor>
+            <dependent idx="26">than</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="28">slice</governor>
+            <dependent idx="27">any</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="26">than</governor>
+            <dependent idx="28">slice</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="28">slice</governor>
+            <dependent idx="29">of</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">whimsy</governor>
+            <dependent idx="30">Hugh</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">whimsy</governor>
+            <dependent idx="31">Grant</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="29">of</governor>
+            <dependent idx="32">whimsy</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="25">film</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="5">easy</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">easy</governor>
+            <dependent idx="2">it</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">easy</governor>
+            <dependent idx="3">would</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">easy</governor>
+            <dependent idx="4">be</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="25">film</governor>
+            <dependent idx="5">easy</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="7">give</governor>
+            <dependent idx="6">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">easy</governor>
+            <dependent idx="7">give</dependent>
+          </dep>
+          <dep type="iobj">
+            <governor idx="7">give</governor>
+            <dependent idx="8">Crush</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">title</governor>
+            <dependent idx="9">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">title</governor>
+            <dependent idx="10">new</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">give</governor>
+            <dependent idx="11">title</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="14">Weddings</governor>
+            <dependent idx="13">Two</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="11">title</governor>
+            <dependent idx="14">Weddings</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">Funeral</governor>
+            <dependent idx="16">a</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="14">Weddings</governor>
+            <dependent idx="17">Funeral</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">film</governor>
+            <dependent idx="19">it</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="25">film</governor>
+            <dependent idx="20">'s</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="25">film</governor>
+            <dependent idx="21">a</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="24">thoughtful</governor>
+            <dependent idx="22">far</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="24">thoughtful</governor>
+            <dependent idx="23">more</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">film</governor>
+            <dependent idx="24">thoughtful</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="28">slice</governor>
+            <dependent idx="27">any</dependent>
+          </dep>
+          <dep type="prep_than">
+            <governor idx="25">film</governor>
+            <dependent idx="28">slice</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">whimsy</governor>
+            <dependent idx="30">Hugh</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">whimsy</governor>
+            <dependent idx="31">Grant</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="28">slice</governor>
+            <dependent idx="32">whimsy</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="25">film</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="5">easy</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">easy</governor>
+            <dependent idx="2">it</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">easy</governor>
+            <dependent idx="3">would</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">easy</governor>
+            <dependent idx="4">be</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="25">film</governor>
+            <dependent idx="5">easy</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="7">give</governor>
+            <dependent idx="6">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">easy</governor>
+            <dependent idx="7">give</dependent>
+          </dep>
+          <dep type="iobj">
+            <governor idx="7">give</governor>
+            <dependent idx="8">Crush</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">title</governor>
+            <dependent idx="9">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">title</governor>
+            <dependent idx="10">new</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">give</governor>
+            <dependent idx="11">title</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="14">Weddings</governor>
+            <dependent idx="13">Two</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="11">title</governor>
+            <dependent idx="14">Weddings</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">Funeral</governor>
+            <dependent idx="16">a</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="11">title</governor>
+            <dependent idx="17">Funeral</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="14">Weddings</governor>
+            <dependent idx="17">Funeral</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">film</governor>
+            <dependent idx="19">it</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="25">film</governor>
+            <dependent idx="20">'s</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="25">film</governor>
+            <dependent idx="21">a</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="24">thoughtful</governor>
+            <dependent idx="22">far</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="24">thoughtful</governor>
+            <dependent idx="23">more</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">film</governor>
+            <dependent idx="24">thoughtful</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="28">slice</governor>
+            <dependent idx="27">any</dependent>
+          </dep>
+          <dep type="prep_than">
+            <governor idx="25">film</governor>
+            <dependent idx="28">slice</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">whimsy</governor>
+            <dependent idx="30">Hugh</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">whimsy</governor>
+            <dependent idx="31">Grant</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="28">slice</governor>
+            <dependent idx="32">whimsy</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>8</start>
+          <end>9</end>
+          <head>8</head>
+          <text>Crush</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>19</start>
+          <end>20</end>
+          <head>19</head>
+          <text>it</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>21</start>
+          <end>33</end>
+          <head>25</head>
+          <text>a far more thoughtful film than any slice of Hugh Grant whimsy</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

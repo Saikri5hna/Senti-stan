@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Newton</word>
+            <lemma>Newton</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>draws</word>
+            <lemma>draw</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>our</word>
+            <lemma>we</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>attention</word>
+            <lemma>attention</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>like</word>
+            <lemma>like</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>magnet</word>
+            <lemma>magnet</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>acts</word>
+            <lemma>act</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>circles</word>
+            <lemma>circle</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>around</word>
+            <lemma>around</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>her</word>
+            <lemma>she</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>better</word>
+            <lemma>better</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>77</CharacterOffsetEnd>
+            <POS>JJR</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>known</word>
+            <lemma>known</lemma>
+            <CharacterOffsetBegin>78</CharacterOffsetBegin>
+            <CharacterOffsetEnd>83</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>co-star</word>
+            <lemma>co-star</lemma>
+            <CharacterOffsetBegin>84</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>93</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>Mark</word>
+            <lemma>Mark</lemma>
+            <CharacterOffsetBegin>94</CharacterOffsetBegin>
+            <CharacterOffsetEnd>98</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>Wahlberg</word>
+            <lemma>Wahlberg</lemma>
+            <CharacterOffsetBegin>99</CharacterOffsetBegin>
+            <CharacterOffsetEnd>107</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>108</CharacterOffsetBegin>
+            <CharacterOffsetEnd>109</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP Newton)) (VP (VP (VBZ draws) (NP (PRP$ our) (NN attention)) (PP (IN like) (NP (DT a) (NN magnet)))) (, ,) (CC and) (VP (VBZ acts) (NP (NNS circles)) (PP (IN around) (NP (NP (PRP$ her) (ADJP (JJR better) (JJ known)) (NN co-star)) (, ,) (NP (NNP Mark) (NNP Wahlberg)))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">draws</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">draws</governor>
+            <dependent idx="1">Newton</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="4">attention</governor>
+            <dependent idx="3">our</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">draws</governor>
+            <dependent idx="4">attention</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">draws</governor>
+            <dependent idx="5">like</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">magnet</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="5">like</governor>
+            <dependent idx="7">magnet</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="2">draws</governor>
+            <dependent idx="9">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="2">draws</governor>
+            <dependent idx="10">acts</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">acts</governor>
+            <dependent idx="11">circles</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="10">acts</governor>
+            <dependent idx="12">around</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="16">co-star</governor>
+            <dependent idx="13">her</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="15">known</governor>
+            <dependent idx="14">better</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">co-star</governor>
+            <dependent idx="15">known</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="12">around</governor>
+            <dependent idx="16">co-star</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="19">Wahlberg</governor>
+            <dependent idx="18">Mark</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="16">co-star</governor>
+            <dependent idx="19">Wahlberg</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">draws</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">draws</governor>
+            <dependent idx="1">Newton</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="4">attention</governor>
+            <dependent idx="3">our</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">draws</governor>
+            <dependent idx="4">attention</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">magnet</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="prep_like">
+            <governor idx="2">draws</governor>
+            <dependent idx="7">magnet</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="2">draws</governor>
+            <dependent idx="10">acts</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">acts</governor>
+            <dependent idx="11">circles</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="16">co-star</governor>
+            <dependent idx="13">her</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="15">known</governor>
+            <dependent idx="14">better</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">co-star</governor>
+            <dependent idx="15">known</dependent>
+          </dep>
+          <dep type="prep_around">
+            <governor idx="10">acts</governor>
+            <dependent idx="16">co-star</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="19">Wahlberg</governor>
+            <dependent idx="18">Mark</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="16">co-star</governor>
+            <dependent idx="19">Wahlberg</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">draws</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">draws</governor>
+            <dependent idx="1">Newton</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">acts</governor>
+            <dependent idx="1">Newton</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="4">attention</governor>
+            <dependent idx="3">our</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">draws</governor>
+            <dependent idx="4">attention</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">magnet</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="prep_like">
+            <governor idx="2">draws</governor>
+            <dependent idx="7">magnet</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="2">draws</governor>
+            <dependent idx="10">acts</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">acts</governor>
+            <dependent idx="11">circles</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="16">co-star</governor>
+            <dependent idx="13">her</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="15">known</governor>
+            <dependent idx="14">better</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">co-star</governor>
+            <dependent idx="15">known</dependent>
+          </dep>
+          <dep type="prep_around">
+            <governor idx="10">acts</governor>
+            <dependent idx="16">co-star</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="19">Wahlberg</governor>
+            <dependent idx="18">Mark</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="16">co-star</governor>
+            <dependent idx="19">Wahlberg</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>18</start>
+          <end>20</end>
+          <head>19</head>
+          <text>Mark Wahlberg</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>13</start>
+          <end>17</end>
+          <head>16</head>
+          <text>her better known co-star</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

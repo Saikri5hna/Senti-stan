@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Disney</word>
+            <lemma>Disney</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>has</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>always</word>
+            <lemma>always</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>been</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>hit-or-miss</word>
+            <lemma>hit-or-miss</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>when</word>
+            <lemma>when</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>WRB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>bringing</word>
+            <lemma>bring</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>beloved</word>
+            <lemma>beloved</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>kids</word>
+            <lemma>kid</lemma>
+            <CharacterOffsetBegin>57</CharacterOffsetBegin>
+            <CharacterOffsetEnd>61</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>'</word>
+            <lemma>'</lemma>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>books</word>
+            <lemma>book</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>69</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>70</CharacterOffsetBegin>
+            <CharacterOffsetEnd>72</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>73</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>screen</word>
+            <lemma>screen</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>83</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>...</word>
+            <lemma>...</lemma>
+            <CharacterOffsetBegin>84</CharacterOffsetBegin>
+            <CharacterOffsetEnd>87</CharacterOffsetEnd>
+            <POS>:</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>Tuck</word>
+            <lemma>tuck</lemma>
+            <CharacterOffsetBegin>88</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>Everlasting</word>
+            <lemma>everlasting</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>107</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>108</CharacterOffsetBegin>
+            <CharacterOffsetEnd>109</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>little</word>
+            <lemma>little</lemma>
+            <CharacterOffsetBegin>110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>116</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>119</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>both</word>
+            <lemma>both</lemma>
+            <CharacterOffsetBegin>120</CharacterOffsetBegin>
+            <CharacterOffsetEnd>124</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>125</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (NP (NNP Disney)) (VP (VBZ has) (ADVP (RB always)) (VP (VBN been) (ADJP (JJ hit-or-miss)) (SBAR (WHADVP (WRB when)) (S (VP (VBG bringing) (NP (NP (JJ beloved) (NNS kids) (POS ')) (NNS books)) (PP (TO to) (NP (DT the) (NN screen))))))))) (: ...) (S (S (VP (VB Tuck) (ADJP (JJ Everlasting)))) (VP (VBZ is) (NP (NP (DT a) (JJ little)) (PP (IN of) (NP (DT both)))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">hit-or-miss</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="1">Disney</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="2">has</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="3">always</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="4">been</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">bringing</governor>
+            <dependent idx="6">when</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="7">bringing</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">kids</governor>
+            <dependent idx="8">beloved</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="11">books</governor>
+            <dependent idx="9">kids</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">bringing</governor>
+            <dependent idx="11">books</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="7">bringing</governor>
+            <dependent idx="12">to</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">screen</governor>
+            <dependent idx="13">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="12">to</governor>
+            <dependent idx="14">screen</dependent>
+          </dep>
+          <dep type="csubj">
+            <governor idx="20">little</governor>
+            <dependent idx="16">Tuck</dependent>
+          </dep>
+          <dep type="acomp">
+            <governor idx="16">Tuck</governor>
+            <dependent idx="17">Everlasting</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="20">little</governor>
+            <dependent idx="18">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="20">little</governor>
+            <dependent idx="19">a</dependent>
+          </dep>
+          <dep type="parataxis">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="20">little</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="20">little</governor>
+            <dependent idx="21">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="21">of</governor>
+            <dependent idx="22">both</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">hit-or-miss</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="1">Disney</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="2">has</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="3">always</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="4">been</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">bringing</governor>
+            <dependent idx="6">when</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="7">bringing</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">kids</governor>
+            <dependent idx="8">beloved</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="11">books</governor>
+            <dependent idx="9">kids</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">bringing</governor>
+            <dependent idx="11">books</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">screen</governor>
+            <dependent idx="13">the</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="7">bringing</governor>
+            <dependent idx="14">screen</dependent>
+          </dep>
+          <dep type="csubj">
+            <governor idx="20">little</governor>
+            <dependent idx="16">Tuck</dependent>
+          </dep>
+          <dep type="acomp">
+            <governor idx="16">Tuck</governor>
+            <dependent idx="17">Everlasting</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="20">little</governor>
+            <dependent idx="18">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="20">little</governor>
+            <dependent idx="19">a</dependent>
+          </dep>
+          <dep type="parataxis">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="20">little</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="20">little</governor>
+            <dependent idx="22">both</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">hit-or-miss</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="1">Disney</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="2">has</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="3">always</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="4">been</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">bringing</governor>
+            <dependent idx="6">when</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="7">bringing</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">kids</governor>
+            <dependent idx="8">beloved</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="11">books</governor>
+            <dependent idx="9">kids</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">bringing</governor>
+            <dependent idx="11">books</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">screen</governor>
+            <dependent idx="13">the</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="7">bringing</governor>
+            <dependent idx="14">screen</dependent>
+          </dep>
+          <dep type="csubj">
+            <governor idx="20">little</governor>
+            <dependent idx="16">Tuck</dependent>
+          </dep>
+          <dep type="acomp">
+            <governor idx="16">Tuck</governor>
+            <dependent idx="17">Everlasting</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="20">little</governor>
+            <dependent idx="18">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="20">little</governor>
+            <dependent idx="19">a</dependent>
+          </dep>
+          <dep type="parataxis">
+            <governor idx="5">hit-or-miss</governor>
+            <dependent idx="20">little</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="20">little</governor>
+            <dependent idx="22">both</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

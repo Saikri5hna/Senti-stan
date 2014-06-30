@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>This</word>
+            <lemma>this</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>delicately</word>
+            <lemma>delicately</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>observed</word>
+            <lemma>observe</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>story</word>
+            <lemma>story</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>deeply</word>
+            <lemma>deeply</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>felt</word>
+            <lemma>feel</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>masterfully</word>
+            <lemma>masterfully</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>stylized</word>
+            <lemma>stylized</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>69</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>70</CharacterOffsetBegin>
+            <CharacterOffsetEnd>71</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>72</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>75</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>triumph</word>
+            <lemma>triumph</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>84</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>85</CharacterOffsetBegin>
+            <CharacterOffsetEnd>88</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>its</word>
+            <lemma>its</lemma>
+            <CharacterOffsetBegin>89</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>maverick</word>
+            <lemma>maverick</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>101</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>director</word>
+            <lemma>director</lemma>
+            <CharacterOffsetBegin>102</CharacterOffsetBegin>
+            <CharacterOffsetEnd>110</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>111</CharacterOffsetBegin>
+            <CharacterOffsetEnd>112</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (DT This) (RB delicately) (VBN observed) (NN story)) (, ,) (SBAR (ADVP (RB deeply)) (S (VP (VP (VBD felt)) (CC and) (VP (ADVP (RB masterfully) (ADJP (JJ stylized))))))) (, ,)) (VP (VBZ is) (NP (NP (DT a) (NN triumph)) (PP (IN for) (NP (PRP$ its) (NN maverick) (NN director))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="14">triumph</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">story</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">story</governor>
+            <dependent idx="2">delicately</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">story</governor>
+            <dependent idx="3">observed</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">triumph</governor>
+            <dependent idx="4">story</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">felt</governor>
+            <dependent idx="6">deeply</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">story</governor>
+            <dependent idx="7">felt</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="7">felt</governor>
+            <dependent idx="8">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">felt</governor>
+            <dependent idx="9">masterfully</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="9">masterfully</governor>
+            <dependent idx="10">stylized</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="14">triumph</governor>
+            <dependent idx="12">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">triumph</governor>
+            <dependent idx="13">a</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="14">triumph</governor>
+            <dependent idx="15">for</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">director</governor>
+            <dependent idx="16">its</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="18">director</governor>
+            <dependent idx="17">maverick</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="15">for</governor>
+            <dependent idx="18">director</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="14">triumph</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">story</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">story</governor>
+            <dependent idx="2">delicately</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">story</governor>
+            <dependent idx="3">observed</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">triumph</governor>
+            <dependent idx="4">story</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">felt</governor>
+            <dependent idx="6">deeply</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">story</governor>
+            <dependent idx="7">felt</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="7">felt</governor>
+            <dependent idx="9">masterfully</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="9">masterfully</governor>
+            <dependent idx="10">stylized</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="14">triumph</governor>
+            <dependent idx="12">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">triumph</governor>
+            <dependent idx="13">a</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">director</governor>
+            <dependent idx="16">its</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="18">director</governor>
+            <dependent idx="17">maverick</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="14">triumph</governor>
+            <dependent idx="18">director</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="14">triumph</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">story</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">story</governor>
+            <dependent idx="2">delicately</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">story</governor>
+            <dependent idx="3">observed</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">triumph</governor>
+            <dependent idx="4">story</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">felt</governor>
+            <dependent idx="6">deeply</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">story</governor>
+            <dependent idx="7">felt</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">story</governor>
+            <dependent idx="9">masterfully</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="7">felt</governor>
+            <dependent idx="9">masterfully</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="9">masterfully</governor>
+            <dependent idx="10">stylized</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="14">triumph</governor>
+            <dependent idx="12">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">triumph</governor>
+            <dependent idx="13">a</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">director</governor>
+            <dependent idx="16">its</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="18">director</governor>
+            <dependent idx="17">maverick</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="14">triumph</governor>
+            <dependent idx="18">director</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>1</start>
+          <end>11</end>
+          <head>1</head>
+          <text>This delicately observed story , deeply felt and masterfully stylized</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>16</start>
+          <end>17</end>
+          <head>16</head>
+          <text>its</text>
+        </mention>
+      </coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>1</start>
+          <end>5</end>
+          <head>4</head>
+          <text>This delicately observed story</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>13</start>
+          <end>19</end>
+          <head>14</head>
+          <text>a triumph for its maverick director</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

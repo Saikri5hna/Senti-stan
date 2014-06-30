@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>appearance</word>
+            <lemma>appearance</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>Treebeard</word>
+            <lemma>Treebeard</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>Gollum</word>
+            <lemma>Gollum</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>'s</word>
+            <lemma>'s</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>expanded</word>
+            <lemma>expand</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>role</word>
+            <lemma>role</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>will</word>
+            <lemma>will</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>either</word>
+            <lemma>either</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>67</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>have</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>68</CharacterOffsetBegin>
+            <CharacterOffsetEnd>72</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>you</word>
+            <lemma>you</lemma>
+            <CharacterOffsetBegin>73</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>loving</word>
+            <lemma>loving</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>83</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>what</word>
+            <lemma>what</lemma>
+            <CharacterOffsetBegin>84</CharacterOffsetBegin>
+            <CharacterOffsetEnd>88</CharacterOffsetEnd>
+            <POS>WP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>you</word>
+            <lemma>you</lemma>
+            <CharacterOffsetBegin>89</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>'re</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>96</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>seeing</word>
+            <lemma>see</lemma>
+            <CharacterOffsetBegin>97</CharacterOffsetBegin>
+            <CharacterOffsetEnd>103</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>104</CharacterOffsetBegin>
+            <CharacterOffsetEnd>105</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>or</word>
+            <lemma>or</lemma>
+            <CharacterOffsetBegin>106</CharacterOffsetBegin>
+            <CharacterOffsetEnd>108</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>rolling</word>
+            <lemma>roll</lemma>
+            <CharacterOffsetBegin>109</CharacterOffsetBegin>
+            <CharacterOffsetEnd>116</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>your</word>
+            <lemma>you</lemma>
+            <CharacterOffsetBegin>117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>121</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>eyes</word>
+            <lemma>eye</lemma>
+            <CharacterOffsetBegin>122</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>127</CharacterOffsetBegin>
+            <CharacterOffsetEnd>128</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (NP (DT The) (NN appearance)) (PP (IN of) (NP (NNP Treebeard)))) (CC and) (NP (NP (NNP Gollum) (POS 's)) (VBN expanded) (NN role))) (VP (MD will) (RB either) (VP (VB have) (S (NP (PRP you)) (ADJP (JJ loving)) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP 're) (VP (VP (VBG seeing)) (, ,) (CC or) (VP (VBG rolling) (NP (PRP$ your) (NNS eyes)))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="12">have</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">appearance</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">have</governor>
+            <dependent idx="2">appearance</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">appearance</governor>
+            <dependent idx="3">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="3">of</governor>
+            <dependent idx="4">Treebeard</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="2">appearance</governor>
+            <dependent idx="5">and</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="9">role</governor>
+            <dependent idx="6">Gollum</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="6">Gollum</governor>
+            <dependent idx="7">'s</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">role</governor>
+            <dependent idx="8">expanded</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="2">appearance</governor>
+            <dependent idx="9">role</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">have</governor>
+            <dependent idx="10">will</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">have</governor>
+            <dependent idx="11">either</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">seeing</governor>
+            <dependent idx="13">you</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="18">seeing</governor>
+            <dependent idx="14">loving</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="18">seeing</governor>
+            <dependent idx="15">what</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">seeing</governor>
+            <dependent idx="16">you</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="18">seeing</governor>
+            <dependent idx="17">'re</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="12">have</governor>
+            <dependent idx="18">seeing</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="18">seeing</governor>
+            <dependent idx="20">or</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="18">seeing</governor>
+            <dependent idx="21">rolling</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="23">eyes</governor>
+            <dependent idx="22">your</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="21">rolling</governor>
+            <dependent idx="23">eyes</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="12">have</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">appearance</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">have</governor>
+            <dependent idx="2">appearance</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="2">appearance</governor>
+            <dependent idx="4">Treebeard</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="9">role</governor>
+            <dependent idx="6">Gollum</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">role</governor>
+            <dependent idx="8">expanded</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="2">appearance</governor>
+            <dependent idx="9">role</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">have</governor>
+            <dependent idx="10">will</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">have</governor>
+            <dependent idx="11">either</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">seeing</governor>
+            <dependent idx="13">you</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="18">seeing</governor>
+            <dependent idx="14">loving</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="18">seeing</governor>
+            <dependent idx="15">what</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">seeing</governor>
+            <dependent idx="16">you</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="18">seeing</governor>
+            <dependent idx="17">'re</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="12">have</governor>
+            <dependent idx="18">seeing</dependent>
+          </dep>
+          <dep type="conj_or">
+            <governor idx="18">seeing</governor>
+            <dependent idx="21">rolling</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="23">eyes</governor>
+            <dependent idx="22">your</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="21">rolling</governor>
+            <dependent idx="23">eyes</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="12">have</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">appearance</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">have</governor>
+            <dependent idx="2">appearance</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="2">appearance</governor>
+            <dependent idx="4">Treebeard</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="9">role</governor>
+            <dependent idx="6">Gollum</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">role</governor>
+            <dependent idx="8">expanded</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="2">appearance</governor>
+            <dependent idx="9">role</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">have</governor>
+            <dependent idx="9">role</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">have</governor>
+            <dependent idx="10">will</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">have</governor>
+            <dependent idx="11">either</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">seeing</governor>
+            <dependent idx="13">you</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">rolling</governor>
+            <dependent idx="13">you</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="18">seeing</governor>
+            <dependent idx="14">loving</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="18">seeing</governor>
+            <dependent idx="15">what</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">seeing</governor>
+            <dependent idx="16">you</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="18">seeing</governor>
+            <dependent idx="17">'re</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="12">have</governor>
+            <dependent idx="18">seeing</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="12">have</governor>
+            <dependent idx="21">rolling</dependent>
+          </dep>
+          <dep type="conj_or">
+            <governor idx="18">seeing</governor>
+            <dependent idx="21">rolling</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="23">eyes</governor>
+            <dependent idx="22">your</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="21">rolling</governor>
+            <dependent idx="23">eyes</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

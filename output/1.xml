@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Scores</word>
+            <lemma>score</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>few</word>
+            <lemma>few</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>points</word>
+            <lemma>point</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>23</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>doing</word>
+            <lemma>do</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>what</word>
+            <lemma>what</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>WP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>does</word>
+            <lemma>do</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>dedicated</word>
+            <lemma>dedicated</lemma>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>good-hearted</word>
+            <lemma>good-hearted</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>professionalism</word>
+            <lemma>professionalism</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>94</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (NP (NP (NNS Scores)) (PP (PP (NP (DT a) (JJ few) (NNS points)) (IN for) (S (VP (VBG doing) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ does))))))) (PP (IN with) (NP (DT a) (ADJP (JJ dedicated) (CC and) (JJ good-hearted)) (NN professionalism)))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">Scores</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">points</governor>
+            <dependent idx="2">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">points</governor>
+            <dependent idx="3">few</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="5">for</governor>
+            <dependent idx="4">points</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="1">Scores</governor>
+            <dependent idx="5">for</dependent>
+          </dep>
+          <dep type="pcomp">
+            <governor idx="5">for</governor>
+            <dependent idx="6">doing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="9">does</governor>
+            <dependent idx="7">what</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">does</governor>
+            <dependent idx="8">it</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="6">doing</governor>
+            <dependent idx="9">does</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">for</governor>
+            <dependent idx="10">with</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="15">professionalism</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">professionalism</governor>
+            <dependent idx="12">dedicated</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">dedicated</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="12">dedicated</governor>
+            <dependent idx="14">good-hearted</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="10">with</governor>
+            <dependent idx="15">professionalism</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">Scores</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">points</governor>
+            <dependent idx="2">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">points</governor>
+            <dependent idx="3">few</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="1">Scores</governor>
+            <dependent idx="4">points</dependent>
+          </dep>
+          <dep type="prepc_for">
+            <governor idx="1">Scores</governor>
+            <dependent idx="6">doing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="9">does</governor>
+            <dependent idx="7">what</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">does</governor>
+            <dependent idx="8">it</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="6">doing</governor>
+            <dependent idx="9">does</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="15">professionalism</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">professionalism</governor>
+            <dependent idx="12">dedicated</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="12">dedicated</governor>
+            <dependent idx="14">good-hearted</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="1">Scores</governor>
+            <dependent idx="15">professionalism</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">Scores</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">points</governor>
+            <dependent idx="2">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">points</governor>
+            <dependent idx="3">few</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="1">Scores</governor>
+            <dependent idx="4">points</dependent>
+          </dep>
+          <dep type="prepc_for">
+            <governor idx="1">Scores</governor>
+            <dependent idx="6">doing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="9">does</governor>
+            <dependent idx="7">what</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">does</governor>
+            <dependent idx="8">it</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="6">doing</governor>
+            <dependent idx="9">does</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="15">professionalism</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">professionalism</governor>
+            <dependent idx="12">dedicated</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="12">dedicated</governor>
+            <dependent idx="14">good-hearted</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">professionalism</governor>
+            <dependent idx="14">good-hearted</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="1">Scores</governor>
+            <dependent idx="15">professionalism</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

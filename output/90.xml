@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Still</word>
+            <lemma>still</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>this</word>
+            <lemma>this</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>flick</word>
+            <lemma>flick</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>fun</word>
+            <lemma>fun</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>host</word>
+            <lemma>host</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>some</word>
+            <lemma>some</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>truly</word>
+            <lemma>truly</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>excellent</word>
+            <lemma>excellent</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>sequences</word>
+            <lemma>sequence</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>72</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (ADVP (RB Still)) (, ,) (NP (DT this) (NN flick)) (VP (VBZ is) (NP (NP (NN fun)) (, ,) (CC and) (NP (NP (NN host)) (PP (TO to) (NP (DT some) (ADJP (RB truly) (JJ excellent)) (NNS sequences)))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">fun</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">fun</governor>
+            <dependent idx="1">Still</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">flick</governor>
+            <dependent idx="3">this</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">fun</governor>
+            <dependent idx="4">flick</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">fun</governor>
+            <dependent idx="5">is</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">fun</governor>
+            <dependent idx="8">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">fun</governor>
+            <dependent idx="9">host</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="9">host</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">sequences</governor>
+            <dependent idx="11">some</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">excellent</governor>
+            <dependent idx="12">truly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">sequences</governor>
+            <dependent idx="13">excellent</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="10">to</governor>
+            <dependent idx="14">sequences</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">fun</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">fun</governor>
+            <dependent idx="1">Still</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">flick</governor>
+            <dependent idx="3">this</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">fun</governor>
+            <dependent idx="4">flick</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">fun</governor>
+            <dependent idx="5">is</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="6">fun</governor>
+            <dependent idx="9">host</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">sequences</governor>
+            <dependent idx="11">some</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">excellent</governor>
+            <dependent idx="12">truly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">sequences</governor>
+            <dependent idx="13">excellent</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="9">host</governor>
+            <dependent idx="14">sequences</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">fun</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">fun</governor>
+            <dependent idx="1">Still</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">flick</governor>
+            <dependent idx="3">this</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">fun</governor>
+            <dependent idx="4">flick</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">fun</governor>
+            <dependent idx="5">is</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="6">fun</governor>
+            <dependent idx="9">host</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">sequences</governor>
+            <dependent idx="11">some</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">excellent</governor>
+            <dependent idx="12">truly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">sequences</governor>
+            <dependent idx="13">excellent</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="9">host</governor>
+            <dependent idx="14">sequences</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

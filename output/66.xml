@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>movie</word>
+            <lemma>movie</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>blast</word>
+            <lemma>blast</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>23</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>educational</word>
+            <lemma>educational</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>energy</word>
+            <lemma>energy</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>bouncy</word>
+            <lemma>bouncy</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>animation</word>
+            <lemma>animation</lemma>
+            <CharacterOffsetBegin>55</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>catchy</word>
+            <lemma>catchy</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>songs</word>
+            <lemma>song</lemma>
+            <CharacterOffsetBegin>76</CharacterOffsetBegin>
+            <CharacterOffsetEnd>81</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>escort</word>
+            <lemma>escort</lemma>
+            <CharacterOffsetBegin>82</CharacterOffsetBegin>
+            <CharacterOffsetEnd>88</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>you</word>
+            <lemma>you</lemma>
+            <CharacterOffsetBegin>89</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>through</word>
+            <lemma>through</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>entire</word>
+            <lemma>entire</lemma>
+            <CharacterOffsetBegin>105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>111</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>85</word>
+            <lemma>85</lemma>
+            <CharacterOffsetBegin>112</CharacterOffsetBegin>
+            <CharacterOffsetEnd>114</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DURATION</NER>
+            <NormalizedNER>PT85M</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DURATION">PT85M</Timex>
+          </token>
+          <token id="22">
+            <word>minutes</word>
+            <lemma>minute</lemma>
+            <CharacterOffsetBegin>115</CharacterOffsetBegin>
+            <CharacterOffsetEnd>122</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>DURATION</NER>
+            <NormalizedNER>PT85M</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DURATION">PT85M</Timex>
+          </token>
+          <token id="23">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>123</CharacterOffsetBegin>
+            <CharacterOffsetEnd>124</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT The) (NN movie)) (VP (VBZ is) (NP (NP (DT a) (NN blast)) (PP (IN of) (NP (JJ educational) (NN energy)))) (, ,) (SBAR (IN as) (FRAG (NP-TMP (NP (NN bouncy) (NN animation) (CC and) (JJ catchy) (NNS songs) (NN escort)) (NP (PRP you))))) (PP (IN through) (NP (DT the) (JJ entire) (CD 85) (NNS minutes)))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">blast</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">movie</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">blast</governor>
+            <dependent idx="2">movie</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">blast</governor>
+            <dependent idx="3">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">blast</governor>
+            <dependent idx="4">a</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">blast</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">energy</governor>
+            <dependent idx="7">educational</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="6">of</governor>
+            <dependent idx="8">energy</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="12">animation</governor>
+            <dependent idx="10">as</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">animation</governor>
+            <dependent idx="11">bouncy</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="5">blast</governor>
+            <dependent idx="12">animation</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">animation</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">escort</governor>
+            <dependent idx="14">catchy</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">escort</governor>
+            <dependent idx="15">songs</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="12">animation</governor>
+            <dependent idx="16">escort</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">animation</governor>
+            <dependent idx="17">you</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">blast</governor>
+            <dependent idx="18">through</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">minutes</governor>
+            <dependent idx="19">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="22">minutes</governor>
+            <dependent idx="20">entire</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="22">minutes</governor>
+            <dependent idx="21">85</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="18">through</governor>
+            <dependent idx="22">minutes</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">blast</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">movie</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">blast</governor>
+            <dependent idx="2">movie</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">blast</governor>
+            <dependent idx="3">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">blast</governor>
+            <dependent idx="4">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">energy</governor>
+            <dependent idx="7">educational</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="5">blast</governor>
+            <dependent idx="8">energy</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="12">animation</governor>
+            <dependent idx="10">as</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">animation</governor>
+            <dependent idx="11">bouncy</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="5">blast</governor>
+            <dependent idx="12">animation</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">escort</governor>
+            <dependent idx="14">catchy</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">escort</governor>
+            <dependent idx="15">songs</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="12">animation</governor>
+            <dependent idx="16">escort</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">animation</governor>
+            <dependent idx="17">you</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">minutes</governor>
+            <dependent idx="19">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="22">minutes</governor>
+            <dependent idx="20">entire</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="22">minutes</governor>
+            <dependent idx="21">85</dependent>
+          </dep>
+          <dep type="prep_through">
+            <governor idx="5">blast</governor>
+            <dependent idx="22">minutes</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">blast</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">movie</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">blast</governor>
+            <dependent idx="2">movie</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">blast</governor>
+            <dependent idx="3">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">blast</governor>
+            <dependent idx="4">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">energy</governor>
+            <dependent idx="7">educational</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="5">blast</governor>
+            <dependent idx="8">energy</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="12">animation</governor>
+            <dependent idx="10">as</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">animation</governor>
+            <dependent idx="11">bouncy</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="5">blast</governor>
+            <dependent idx="12">animation</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">escort</governor>
+            <dependent idx="14">catchy</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">escort</governor>
+            <dependent idx="15">songs</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="5">blast</governor>
+            <dependent idx="16">escort</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="12">animation</governor>
+            <dependent idx="16">escort</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">animation</governor>
+            <dependent idx="17">you</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">minutes</governor>
+            <dependent idx="19">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="22">minutes</governor>
+            <dependent idx="20">entire</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="22">minutes</governor>
+            <dependent idx="21">85</dependent>
+          </dep>
+          <dep type="prep_through">
+            <governor idx="5">blast</governor>
+            <dependent idx="22">minutes</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>4</start>
+          <end>9</end>
+          <head>5</head>
+          <text>a blast of educational energy</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>1</start>
+          <end>3</end>
+          <head>2</head>
+          <text>The movie</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

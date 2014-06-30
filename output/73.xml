@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>But</word>
+            <lemma>but</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>Imax</word>
+            <lemma>Imax</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>3-D</word>
+            <lemma>3-d</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>cliche</word>
+            <lemma>cliche</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>disappear</word>
+            <lemma>disappear</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>into</word>
+            <lemma>into</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>vertiginous</word>
+            <lemma>vertiginous</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>perspectives</word>
+            <lemma>perspective</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>71</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>opened</word>
+            <lemma>open</lemma>
+            <CharacterOffsetBegin>72</CharacterOffsetBegin>
+            <CharacterOffsetEnd>78</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>up</word>
+            <lemma>up</lemma>
+            <CharacterOffsetBegin>79</CharacterOffsetBegin>
+            <CharacterOffsetEnd>81</CharacterOffsetEnd>
+            <POS>RP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>by</word>
+            <lemma>by</lemma>
+            <CharacterOffsetBegin>82</CharacterOffsetBegin>
+            <CharacterOffsetEnd>84</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>85</CharacterOffsetBegin>
+            <CharacterOffsetEnd>88</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>photography</word>
+            <lemma>photography</lemma>
+            <CharacterOffsetBegin>89</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>102</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (CC But) (PP (IN in) (NP (NNP Imax) (JJ 3-D))) (, ,) (NP (DT the) (NN cliche) (S (VP (VB disappear) (PP (IN into) (NP (DT the) (JJ vertiginous) (NNS perspectives)))))) (VP (VBD opened) (PRT (RP up)) (PP (IN by) (NP (DT the) (NN photography)))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="13">opened</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="13">opened</governor>
+            <dependent idx="1">But</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="13">opened</governor>
+            <dependent idx="2">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="2">in</governor>
+            <dependent idx="3">Imax</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">Imax</governor>
+            <dependent idx="4">3-D</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">cliche</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">opened</governor>
+            <dependent idx="7">cliche</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">cliche</governor>
+            <dependent idx="8">disappear</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="8">disappear</governor>
+            <dependent idx="9">into</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">perspectives</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">perspectives</governor>
+            <dependent idx="11">vertiginous</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="9">into</governor>
+            <dependent idx="12">perspectives</dependent>
+          </dep>
+          <dep type="prt">
+            <governor idx="13">opened</governor>
+            <dependent idx="14">up</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="13">opened</governor>
+            <dependent idx="15">by</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">photography</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="15">by</governor>
+            <dependent idx="17">photography</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="13">opened</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="13">opened</governor>
+            <dependent idx="1">But</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="13">opened</governor>
+            <dependent idx="3">Imax</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">Imax</governor>
+            <dependent idx="4">3-D</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">cliche</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">opened</governor>
+            <dependent idx="7">cliche</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">cliche</governor>
+            <dependent idx="8">disappear</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">perspectives</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">perspectives</governor>
+            <dependent idx="11">vertiginous</dependent>
+          </dep>
+          <dep type="prep_into">
+            <governor idx="8">disappear</governor>
+            <dependent idx="12">perspectives</dependent>
+          </dep>
+          <dep type="prt">
+            <governor idx="13">opened</governor>
+            <dependent idx="14">up</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">photography</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="prep_by">
+            <governor idx="13">opened</governor>
+            <dependent idx="17">photography</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="13">opened</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="13">opened</governor>
+            <dependent idx="1">But</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="13">opened</governor>
+            <dependent idx="3">Imax</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">Imax</governor>
+            <dependent idx="4">3-D</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">cliche</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">opened</governor>
+            <dependent idx="7">cliche</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">cliche</governor>
+            <dependent idx="8">disappear</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">perspectives</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">perspectives</governor>
+            <dependent idx="11">vertiginous</dependent>
+          </dep>
+          <dep type="prep_into">
+            <governor idx="8">disappear</governor>
+            <dependent idx="12">perspectives</dependent>
+          </dep>
+          <dep type="prt">
+            <governor idx="13">opened</governor>
+            <dependent idx="14">up</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">photography</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="prep_by">
+            <governor idx="13">opened</governor>
+            <dependent idx="17">photography</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

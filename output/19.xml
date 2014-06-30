@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Much</word>
+            <lemma>much</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>way</word>
+            <lemma>way</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>though</word>
+            <lemma>though</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>this</word>
+            <lemma>this</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>refreshingly</word>
+            <lemma>refreshingly</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>novel</word>
+            <lemma>novel</lemma>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>ride</word>
+            <lemma>ride</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (JJ Much)) (PP (IN of) (NP (DT the) (NN way)))) (, ,) (ADVP (RB though)) (, ,) (NP (DT this)) (VP (VBZ is) (NP (DT a) (ADJP (RB refreshingly) (JJ novel)) (NN ride))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="13">ride</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">ride</governor>
+            <dependent idx="1">Much</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="1">Much</governor>
+            <dependent idx="2">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">way</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="2">of</governor>
+            <dependent idx="4">way</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">ride</governor>
+            <dependent idx="6">though</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">ride</governor>
+            <dependent idx="8">this</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="13">ride</governor>
+            <dependent idx="9">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">ride</governor>
+            <dependent idx="10">a</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">novel</governor>
+            <dependent idx="11">refreshingly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">ride</governor>
+            <dependent idx="12">novel</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="13">ride</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">ride</governor>
+            <dependent idx="1">Much</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">way</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="1">Much</governor>
+            <dependent idx="4">way</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">ride</governor>
+            <dependent idx="6">though</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">ride</governor>
+            <dependent idx="8">this</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="13">ride</governor>
+            <dependent idx="9">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">ride</governor>
+            <dependent idx="10">a</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">novel</governor>
+            <dependent idx="11">refreshingly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">ride</governor>
+            <dependent idx="12">novel</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="13">ride</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">ride</governor>
+            <dependent idx="1">Much</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">way</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="1">Much</governor>
+            <dependent idx="4">way</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">ride</governor>
+            <dependent idx="6">though</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">ride</governor>
+            <dependent idx="8">this</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="13">ride</governor>
+            <dependent idx="9">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">ride</governor>
+            <dependent idx="10">a</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">novel</governor>
+            <dependent idx="11">refreshingly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">ride</governor>
+            <dependent idx="12">novel</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>10</start>
+          <end>14</end>
+          <head>13</head>
+          <text>a refreshingly novel ride</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>1</start>
+          <end>5</end>
+          <head>1</head>
+          <text>Much of the way</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

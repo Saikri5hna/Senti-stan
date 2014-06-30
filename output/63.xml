@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Together</word>
+            <lemma>together</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>Tok</word>
+            <lemma>tok</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>O</word>
+            <lemma>o</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>orchestrate</word>
+            <lemma>orchestrate</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>buoyant</word>
+            <lemma>buoyant</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>darkly</word>
+            <lemma>darkly</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>funny</word>
+            <lemma>funny</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>dance</word>
+            <lemma>dance</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>death</word>
+            <lemma>death</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>72</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>73</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (ADVP (RB Together)) (, ,) (NP (NN Tok) (CC and) (NN O)) (VP (VBP orchestrate) (NP (NP (DT a) (ADJP (JJ buoyant) (, ,) (RB darkly) (JJ funny)) (NN dance)) (PP (IN of) (NP (NN death))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">orchestrate</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">orchestrate</governor>
+            <dependent idx="1">Together</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">orchestrate</governor>
+            <dependent idx="3">Tok</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">Tok</governor>
+            <dependent idx="4">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">Tok</governor>
+            <dependent idx="5">O</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">dance</governor>
+            <dependent idx="7">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">funny</governor>
+            <dependent idx="8">buoyant</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="11">funny</governor>
+            <dependent idx="10">darkly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">dance</governor>
+            <dependent idx="11">funny</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">orchestrate</governor>
+            <dependent idx="12">dance</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="12">dance</governor>
+            <dependent idx="13">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="13">of</governor>
+            <dependent idx="14">death</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">orchestrate</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">orchestrate</governor>
+            <dependent idx="1">Together</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">orchestrate</governor>
+            <dependent idx="3">Tok</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="3">Tok</governor>
+            <dependent idx="5">O</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">dance</governor>
+            <dependent idx="7">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">funny</governor>
+            <dependent idx="8">buoyant</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="11">funny</governor>
+            <dependent idx="10">darkly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">dance</governor>
+            <dependent idx="11">funny</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">orchestrate</governor>
+            <dependent idx="12">dance</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="12">dance</governor>
+            <dependent idx="14">death</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">orchestrate</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">orchestrate</governor>
+            <dependent idx="1">Together</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">orchestrate</governor>
+            <dependent idx="3">Tok</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="3">Tok</governor>
+            <dependent idx="5">O</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">orchestrate</governor>
+            <dependent idx="5">O</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">dance</governor>
+            <dependent idx="7">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">funny</governor>
+            <dependent idx="8">buoyant</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="11">funny</governor>
+            <dependent idx="10">darkly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">dance</governor>
+            <dependent idx="11">funny</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">orchestrate</governor>
+            <dependent idx="12">dance</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="12">dance</governor>
+            <dependent idx="14">death</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

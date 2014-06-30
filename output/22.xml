@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Karmen</word>
+            <lemma>karmen</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>moves</word>
+            <lemma>move</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>like</word>
+            <lemma>like</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>rhythm</word>
+            <lemma>rhythm</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>itself</word>
+            <lemma>itself</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>her</word>
+            <lemma>she</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>lips</word>
+            <lemma>lip</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>chanting</word>
+            <lemma>chant</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>55</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>beat</word>
+            <lemma>beat</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>her</word>
+            <lemma>she</lemma>
+            <CharacterOffsetBegin>66</CharacterOffsetBegin>
+            <CharacterOffsetEnd>69</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>long</word>
+            <lemma>long</lemma>
+            <CharacterOffsetBegin>70</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>75</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>braided</word>
+            <lemma>braided</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>84</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>hair</word>
+            <lemma>hair</lemma>
+            <CharacterOffsetBegin>85</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>doing</word>
+            <lemma>do</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>little</word>
+            <lemma>little</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>102</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>103</CharacterOffsetBegin>
+            <CharacterOffsetEnd>105</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>wipe</word>
+            <lemma>wipe</lemma>
+            <CharacterOffsetBegin>106</CharacterOffsetBegin>
+            <CharacterOffsetEnd>110</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>away</word>
+            <lemma>away</lemma>
+            <CharacterOffsetBegin>111</CharacterOffsetBegin>
+            <CharacterOffsetEnd>115</CharacterOffsetEnd>
+            <POS>RP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>116</CharacterOffsetBegin>
+            <CharacterOffsetEnd>119</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="25">
+            <word>jeweled</word>
+            <lemma>jeweled</lemma>
+            <CharacterOffsetBegin>120</CharacterOffsetBegin>
+            <CharacterOffsetEnd>127</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="26">
+            <word>beads</word>
+            <lemma>bead</lemma>
+            <CharacterOffsetBegin>128</CharacterOffsetBegin>
+            <CharacterOffsetEnd>133</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="27">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>134</CharacterOffsetBegin>
+            <CharacterOffsetEnd>136</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="28">
+            <word>sweat</word>
+            <lemma>sweat</lemma>
+            <CharacterOffsetBegin>137</CharacterOffsetBegin>
+            <CharacterOffsetEnd>142</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="29">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>143</CharacterOffsetBegin>
+            <CharacterOffsetEnd>144</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (NP (NP (JJ Karmen) (NNS moves)) (PP (IN like) (NP (NP (NN rhythm)) (ADVP (PRP itself)))) (, ,) (S (NP (PRP$ her) (NNS lips)) (VP (VBG chanting) (PP (TO to) (NP (DT the) (NN beat))))) (, ,) (NP (NP (PRP$ her) (JJ long) (, ,) (JJ braided) (NN hair)) (VP (VBG doing) (ADJP (JJ little) (S (VP (TO to) (VP (VB wipe) (PRT (RP away)) (NP (NP (DT the) (JJ jeweled) (NNS beads)) (PP (IN of) (NP (NN sweat)))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">moves</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">moves</governor>
+            <dependent idx="1">Karmen</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">moves</governor>
+            <dependent idx="3">like</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="3">like</governor>
+            <dependent idx="4">rhythm</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">rhythm</governor>
+            <dependent idx="5">itself</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="8">lips</governor>
+            <dependent idx="7">her</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">chanting</governor>
+            <dependent idx="8">lips</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="2">moves</governor>
+            <dependent idx="9">chanting</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="9">chanting</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">beat</governor>
+            <dependent idx="11">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="10">to</governor>
+            <dependent idx="12">beat</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">hair</governor>
+            <dependent idx="14">her</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">hair</governor>
+            <dependent idx="15">long</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">hair</governor>
+            <dependent idx="17">braided</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="2">moves</governor>
+            <dependent idx="18">hair</dependent>
+          </dep>
+          <dep type="vmod">
+            <governor idx="18">hair</governor>
+            <dependent idx="19">doing</dependent>
+          </dep>
+          <dep type="acomp">
+            <governor idx="19">doing</governor>
+            <dependent idx="20">little</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="22">wipe</governor>
+            <dependent idx="21">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="20">little</governor>
+            <dependent idx="22">wipe</dependent>
+          </dep>
+          <dep type="prt">
+            <governor idx="22">wipe</governor>
+            <dependent idx="23">away</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="26">beads</governor>
+            <dependent idx="24">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="26">beads</governor>
+            <dependent idx="25">jeweled</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">wipe</governor>
+            <dependent idx="26">beads</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="26">beads</governor>
+            <dependent idx="27">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="27">of</governor>
+            <dependent idx="28">sweat</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">moves</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">moves</governor>
+            <dependent idx="1">Karmen</dependent>
+          </dep>
+          <dep type="prep_like">
+            <governor idx="2">moves</governor>
+            <dependent idx="4">rhythm</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">rhythm</governor>
+            <dependent idx="5">itself</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="8">lips</governor>
+            <dependent idx="7">her</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">chanting</governor>
+            <dependent idx="8">lips</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="2">moves</governor>
+            <dependent idx="9">chanting</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">beat</governor>
+            <dependent idx="11">the</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="9">chanting</governor>
+            <dependent idx="12">beat</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">hair</governor>
+            <dependent idx="14">her</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">hair</governor>
+            <dependent idx="15">long</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">hair</governor>
+            <dependent idx="17">braided</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="2">moves</governor>
+            <dependent idx="18">hair</dependent>
+          </dep>
+          <dep type="vmod">
+            <governor idx="18">hair</governor>
+            <dependent idx="19">doing</dependent>
+          </dep>
+          <dep type="acomp">
+            <governor idx="19">doing</governor>
+            <dependent idx="20">little</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="22">wipe</governor>
+            <dependent idx="21">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="20">little</governor>
+            <dependent idx="22">wipe</dependent>
+          </dep>
+          <dep type="prt">
+            <governor idx="22">wipe</governor>
+            <dependent idx="23">away</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="26">beads</governor>
+            <dependent idx="24">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="26">beads</governor>
+            <dependent idx="25">jeweled</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">wipe</governor>
+            <dependent idx="26">beads</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="26">beads</governor>
+            <dependent idx="28">sweat</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">moves</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">moves</governor>
+            <dependent idx="1">Karmen</dependent>
+          </dep>
+          <dep type="prep_like">
+            <governor idx="2">moves</governor>
+            <dependent idx="4">rhythm</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">rhythm</governor>
+            <dependent idx="5">itself</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="8">lips</governor>
+            <dependent idx="7">her</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">chanting</governor>
+            <dependent idx="8">lips</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="2">moves</governor>
+            <dependent idx="9">chanting</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">beat</governor>
+            <dependent idx="11">the</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="9">chanting</governor>
+            <dependent idx="12">beat</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">hair</governor>
+            <dependent idx="14">her</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">hair</governor>
+            <dependent idx="15">long</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">hair</governor>
+            <dependent idx="17">braided</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="2">moves</governor>
+            <dependent idx="18">hair</dependent>
+          </dep>
+          <dep type="vmod">
+            <governor idx="18">hair</governor>
+            <dependent idx="19">doing</dependent>
+          </dep>
+          <dep type="acomp">
+            <governor idx="19">doing</governor>
+            <dependent idx="20">little</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="22">wipe</governor>
+            <dependent idx="21">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="20">little</governor>
+            <dependent idx="22">wipe</dependent>
+          </dep>
+          <dep type="prt">
+            <governor idx="22">wipe</governor>
+            <dependent idx="23">away</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="26">beads</governor>
+            <dependent idx="24">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="26">beads</governor>
+            <dependent idx="25">jeweled</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">wipe</governor>
+            <dependent idx="26">beads</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="26">beads</governor>
+            <dependent idx="28">sweat</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

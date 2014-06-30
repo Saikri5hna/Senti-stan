@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>An</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>idealistic</word>
+            <lemma>idealistic</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>love</word>
+            <lemma>love</lemma>
+            <CharacterOffsetBegin>14</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>story</word>
+            <lemma>story</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>that</word>
+            <lemma>that</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>WDT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>brings</word>
+            <lemma>bring</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>out</word>
+            <lemma>out</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>RP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>latent</word>
+            <lemma>latent</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>15-year-old</word>
+            <lemma>15-year-old</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DURATION</NER>
+            <NormalizedNER>P15Y</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DURATION">P15Y</Timex>
+          </token>
+          <token id="11">
+            <word>romantic</word>
+            <lemma>romantic</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>72</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>73</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>everyone</word>
+            <lemma>everyone</lemma>
+            <CharacterOffsetBegin>76</CharacterOffsetBegin>
+            <CharacterOffsetEnd>84</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>85</CharacterOffsetBegin>
+            <CharacterOffsetEnd>86</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (FRAG (NP (NP (DT An) (JJ idealistic) (NN love) (NN story)) (SBAR (WHNP (WDT that)) (S (VP (VBZ brings) (PRT (RP out)) (NP (NP (DT the) (ADJP (JJ latent) (JJ 15-year-old)) (JJ romantic)) (PP (IN in) (NP (NN everyone)))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">story</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">story</governor>
+            <dependent idx="1">An</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">story</governor>
+            <dependent idx="2">idealistic</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">story</governor>
+            <dependent idx="3">love</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">brings</governor>
+            <dependent idx="5">that</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="4">story</governor>
+            <dependent idx="6">brings</dependent>
+          </dep>
+          <dep type="prt">
+            <governor idx="6">brings</governor>
+            <dependent idx="7">out</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">15-year-old</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">15-year-old</governor>
+            <dependent idx="9">latent</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">brings</governor>
+            <dependent idx="10">15-year-old</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">15-year-old</governor>
+            <dependent idx="11">romantic</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="10">15-year-old</governor>
+            <dependent idx="12">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="12">in</governor>
+            <dependent idx="13">everyone</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">story</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">story</governor>
+            <dependent idx="1">An</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">story</governor>
+            <dependent idx="2">idealistic</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">story</governor>
+            <dependent idx="3">love</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">brings</governor>
+            <dependent idx="5">that</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="4">story</governor>
+            <dependent idx="6">brings</dependent>
+          </dep>
+          <dep type="prt">
+            <governor idx="6">brings</governor>
+            <dependent idx="7">out</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">15-year-old</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">15-year-old</governor>
+            <dependent idx="9">latent</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">brings</governor>
+            <dependent idx="10">15-year-old</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">15-year-old</governor>
+            <dependent idx="11">romantic</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="10">15-year-old</governor>
+            <dependent idx="13">everyone</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">story</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">story</governor>
+            <dependent idx="1">An</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">story</governor>
+            <dependent idx="2">idealistic</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">story</governor>
+            <dependent idx="3">love</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">brings</governor>
+            <dependent idx="5">that</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="4">story</governor>
+            <dependent idx="6">brings</dependent>
+          </dep>
+          <dep type="prt">
+            <governor idx="6">brings</governor>
+            <dependent idx="7">out</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">15-year-old</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">15-year-old</governor>
+            <dependent idx="9">latent</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">brings</governor>
+            <dependent idx="10">15-year-old</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">15-year-old</governor>
+            <dependent idx="11">romantic</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="10">15-year-old</governor>
+            <dependent idx="13">everyone</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

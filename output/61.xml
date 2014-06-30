@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>A</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>few</word>
+            <lemma>few</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>artsy</word>
+            <lemma>artsy</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>flourishes</word>
+            <lemma>flourish</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>aside</word>
+            <lemma>aside</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>Narc</word>
+            <lemma>Narc</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>gritty</word>
+            <lemma>gritty</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>movie</word>
+            <lemma>movie</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>gets</word>
+            <lemma>get</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>these</word>
+            <lemma>these</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>days</word>
+            <lemma>day</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>DURATION</NER>
+            <NormalizedNER>PXD</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DURATION">PXD</Timex>
+          </token>
+          <token id="17">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>76</CharacterOffsetBegin>
+            <CharacterOffsetEnd>77</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (NP (DT A) (JJ few) (JJ artsy) (NNS flourishes)) (ADVP (RB aside))) (, ,) (NP (NNP Narc)) (VP (VBZ is) (SBAR (IN as) (S (NP (NP (JJ gritty)) (PP (IN as) (NP (DT a) (NN movie)))) (VP (VBZ gets) (NP (DT these) (NNS days)))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="8">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">flourishes</governor>
+            <dependent idx="1">A</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">flourishes</governor>
+            <dependent idx="2">few</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">flourishes</governor>
+            <dependent idx="3">artsy</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="8">is</governor>
+            <dependent idx="4">flourishes</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">flourishes</governor>
+            <dependent idx="5">aside</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">is</governor>
+            <dependent idx="7">Narc</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="14">gets</governor>
+            <dependent idx="9">as</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">gets</governor>
+            <dependent idx="10">gritty</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="10">gritty</governor>
+            <dependent idx="11">as</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">movie</governor>
+            <dependent idx="12">a</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="11">as</governor>
+            <dependent idx="13">movie</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="8">is</governor>
+            <dependent idx="14">gets</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">days</governor>
+            <dependent idx="15">these</dependent>
+          </dep>
+          <dep type="tmod">
+            <governor idx="14">gets</governor>
+            <dependent idx="16">days</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="8">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">flourishes</governor>
+            <dependent idx="1">A</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">flourishes</governor>
+            <dependent idx="2">few</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">flourishes</governor>
+            <dependent idx="3">artsy</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="8">is</governor>
+            <dependent idx="4">flourishes</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">flourishes</governor>
+            <dependent idx="5">aside</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">is</governor>
+            <dependent idx="7">Narc</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="14">gets</governor>
+            <dependent idx="9">as</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">gets</governor>
+            <dependent idx="10">gritty</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">movie</governor>
+            <dependent idx="12">a</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="10">gritty</governor>
+            <dependent idx="13">movie</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="8">is</governor>
+            <dependent idx="14">gets</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">days</governor>
+            <dependent idx="15">these</dependent>
+          </dep>
+          <dep type="tmod">
+            <governor idx="14">gets</governor>
+            <dependent idx="16">days</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="8">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">flourishes</governor>
+            <dependent idx="1">A</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">flourishes</governor>
+            <dependent idx="2">few</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">flourishes</governor>
+            <dependent idx="3">artsy</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="8">is</governor>
+            <dependent idx="4">flourishes</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">flourishes</governor>
+            <dependent idx="5">aside</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">is</governor>
+            <dependent idx="7">Narc</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="14">gets</governor>
+            <dependent idx="9">as</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">gets</governor>
+            <dependent idx="10">gritty</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">movie</governor>
+            <dependent idx="12">a</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="10">gritty</governor>
+            <dependent idx="13">movie</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="8">is</governor>
+            <dependent idx="14">gets</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">days</governor>
+            <dependent idx="15">these</dependent>
+          </dep>
+          <dep type="tmod">
+            <governor idx="14">gets</governor>
+            <dependent idx="16">days</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

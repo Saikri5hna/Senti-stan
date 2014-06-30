@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>However</word>
+            <lemma>however</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>lacks</word>
+            <lemma>lack</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>grandeur</word>
+            <lemma>grandeur</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>that</word>
+            <lemma>that</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>epic</word>
+            <lemma>epic</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>quality</word>
+            <lemma>quality</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>often</word>
+            <lemma>often</lemma>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>associated</word>
+            <lemma>associate</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>71</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>Stevenson</word>
+            <lemma>Stevenson</lemma>
+            <CharacterOffsetBegin>72</CharacterOffsetBegin>
+            <CharacterOffsetEnd>81</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>'s</word>
+            <lemma>'s</lemma>
+            <CharacterOffsetBegin>82</CharacterOffsetBegin>
+            <CharacterOffsetEnd>84</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>tale</word>
+            <lemma>tale</lemma>
+            <CharacterOffsetBegin>85</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>well</word>
+            <lemma>well</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>97</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>98</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>105</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>earlier</word>
+            <lemma>earlier</lemma>
+            <CharacterOffsetBegin>106</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>JJR</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>Disney</word>
+            <lemma>Disney</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>120</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>efforts</word>
+            <lemma>effort</lemma>
+            <CharacterOffsetBegin>121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>128</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>129</CharacterOffsetBegin>
+            <CharacterOffsetEnd>130</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (ADVP (RB However)) (, ,) (NP (PRP it)) (VP (VP (VBZ lacks) (NP (NN grandeur))) (CC and) (VP (SBAR (IN that) (S (NP (NN epic) (NN quality)) (ADVP (RB often)) (VP (VBN associated) (PP (PP (IN with) (NP (NP (NNP Stevenson) (POS 's)) (NN tale))) (CONJP (RB as) (RB well) (IN as)) (PP (IN with) (NP (JJR earlier) (NNP Disney) (NNS efforts))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">lacks</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">lacks</governor>
+            <dependent idx="1">However</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">lacks</governor>
+            <dependent idx="3">it</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">lacks</governor>
+            <dependent idx="5">grandeur</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">lacks</governor>
+            <dependent idx="6">and</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="11">associated</governor>
+            <dependent idx="7">that</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">quality</governor>
+            <dependent idx="8">epic</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">associated</governor>
+            <dependent idx="9">quality</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="11">associated</governor>
+            <dependent idx="10">often</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">lacks</governor>
+            <dependent idx="11">associated</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="11">associated</governor>
+            <dependent idx="12">with</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="15">tale</governor>
+            <dependent idx="13">Stevenson</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="13">Stevenson</governor>
+            <dependent idx="14">'s</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="12">with</governor>
+            <dependent idx="15">tale</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="17">well</governor>
+            <dependent idx="16">as</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">with</governor>
+            <dependent idx="17">well</dependent>
+          </dep>
+          <dep type="mwe">
+            <governor idx="17">well</governor>
+            <dependent idx="18">as</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="12">with</governor>
+            <dependent idx="19">with</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="22">efforts</governor>
+            <dependent idx="20">earlier</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="22">efforts</governor>
+            <dependent idx="21">Disney</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="19">with</governor>
+            <dependent idx="22">efforts</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">lacks</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">lacks</governor>
+            <dependent idx="1">However</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">lacks</governor>
+            <dependent idx="3">it</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">lacks</governor>
+            <dependent idx="5">grandeur</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="11">associated</governor>
+            <dependent idx="7">that</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">quality</governor>
+            <dependent idx="8">epic</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">associated</governor>
+            <dependent idx="9">quality</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="11">associated</governor>
+            <dependent idx="10">often</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="4">lacks</governor>
+            <dependent idx="11">associated</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="15">tale</governor>
+            <dependent idx="13">Stevenson</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="11">associated</governor>
+            <dependent idx="15">tale</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="22">efforts</governor>
+            <dependent idx="20">earlier</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="22">efforts</governor>
+            <dependent idx="21">Disney</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="15">tale</governor>
+            <dependent idx="22">efforts</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">lacks</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">lacks</governor>
+            <dependent idx="1">However</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">lacks</governor>
+            <dependent idx="3">it</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">lacks</governor>
+            <dependent idx="5">grandeur</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="11">associated</governor>
+            <dependent idx="7">that</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">quality</governor>
+            <dependent idx="8">epic</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">associated</governor>
+            <dependent idx="9">quality</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="11">associated</governor>
+            <dependent idx="10">often</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="4">lacks</governor>
+            <dependent idx="11">associated</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="15">tale</governor>
+            <dependent idx="13">Stevenson</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="11">associated</governor>
+            <dependent idx="15">tale</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="22">efforts</governor>
+            <dependent idx="20">earlier</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="22">efforts</governor>
+            <dependent idx="21">Disney</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="11">associated</governor>
+            <dependent idx="22">efforts</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="15">tale</governor>
+            <dependent idx="22">efforts</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

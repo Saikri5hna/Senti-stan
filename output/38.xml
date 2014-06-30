@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>This</word>
+            <lemma>this</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>best</word>
+            <lemma>best</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>JJS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>American</word>
+            <lemma>american</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>movie</word>
+            <lemma>movie</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>about</word>
+            <lemma>about</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>troubled</word>
+            <lemma>troubled</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>teens</word>
+            <lemma>teens</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>since</word>
+            <lemma>since</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>1998</word>
+            <lemma>1998</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>1998</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DATE">1998</Timex>
+          </token>
+          <token id="12">
+            <word>'s</word>
+            <lemma>'s</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>Whatever</word>
+            <lemma>whatever</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>WDT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>76</CharacterOffsetBegin>
+            <CharacterOffsetEnd>77</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (ADJP (JJS best) (JJ American)) (NN movie)) (PP (IN about) (NP (NP (JJ troubled) (NNS teens)) (PP (IN since) (NP (CD 1998) (POS 's))))) (SBAR (WHNP (WDT Whatever))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">movie</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">movie</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">movie</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">movie</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="5">American</governor>
+            <dependent idx="4">best</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">movie</governor>
+            <dependent idx="5">American</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="6">movie</governor>
+            <dependent idx="7">about</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">teens</governor>
+            <dependent idx="8">troubled</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="7">about</governor>
+            <dependent idx="9">teens</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="9">teens</governor>
+            <dependent idx="10">since</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="10">since</governor>
+            <dependent idx="11">1998</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="11">1998</governor>
+            <dependent idx="12">'s</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="6">movie</governor>
+            <dependent idx="13">Whatever</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">movie</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">movie</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">movie</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">movie</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="5">American</governor>
+            <dependent idx="4">best</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">movie</governor>
+            <dependent idx="5">American</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">teens</governor>
+            <dependent idx="8">troubled</dependent>
+          </dep>
+          <dep type="prep_about">
+            <governor idx="6">movie</governor>
+            <dependent idx="9">teens</dependent>
+          </dep>
+          <dep type="prep_since">
+            <governor idx="9">teens</governor>
+            <dependent idx="11">1998</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="11">1998</governor>
+            <dependent idx="12">'s</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="6">movie</governor>
+            <dependent idx="13">Whatever</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">movie</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">movie</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">movie</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">movie</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="5">American</governor>
+            <dependent idx="4">best</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">movie</governor>
+            <dependent idx="5">American</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">teens</governor>
+            <dependent idx="8">troubled</dependent>
+          </dep>
+          <dep type="prep_about">
+            <governor idx="6">movie</governor>
+            <dependent idx="9">teens</dependent>
+          </dep>
+          <dep type="prep_since">
+            <governor idx="9">teens</governor>
+            <dependent idx="11">1998</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="11">1998</governor>
+            <dependent idx="12">'s</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="6">movie</governor>
+            <dependent idx="13">Whatever</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>3</start>
+          <end>14</end>
+          <head>6</head>
+          <text>the best American movie about troubled teens since 1998 's Whatever</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>1</start>
+          <end>2</end>
+          <head>1</head>
+          <text>This</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

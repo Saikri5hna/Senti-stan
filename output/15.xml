@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Like</word>
+            <lemma>like</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>most</word>
+            <lemma>most</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>JJS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>Bond</word>
+            <lemma>bond</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>outings</word>
+            <lemma>outing</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>recent</word>
+            <lemma>recent</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DURATION</NER>
+            <NormalizedNER>PXY</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DURATION">PXY</Timex>
+          </token>
+          <token id="7">
+            <word>years</word>
+            <lemma>year</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>DURATION</NER>
+            <NormalizedNER>PXY</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DURATION">PXY</Timex>
+          </token>
+          <token id="8">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>some</word>
+            <lemma>some</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>stunts</word>
+            <lemma>stunt</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>are</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>so</word>
+            <lemma>so</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>outlandish</word>
+            <lemma>outlandish</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>77</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>that</word>
+            <lemma>that</lemma>
+            <CharacterOffsetBegin>78</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>they</word>
+            <lemma>they</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>87</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>border</word>
+            <lemma>border</lemma>
+            <CharacterOffsetBegin>88</CharacterOffsetBegin>
+            <CharacterOffsetEnd>94</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>95</CharacterOffsetBegin>
+            <CharacterOffsetEnd>97</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>being</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>98</CharacterOffsetBegin>
+            <CharacterOffsetEnd>103</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>cartoonlike</word>
+            <lemma>cartoonlike</lemma>
+            <CharacterOffsetBegin>104</CharacterOffsetBegin>
+            <CharacterOffsetEnd>115</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>116</CharacterOffsetBegin>
+            <CharacterOffsetEnd>117</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (PP (IN Like) (NP (NP (JJS most) (NN Bond) (NNS outings)) (PP (IN in) (NP (JJ recent) (NNS years))))) (, ,) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS stunts)))) (VP (VBP are) (ADJP (RB so) (JJ outlandish) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP border) (PP (IN on) (S (VP (VBG being) (ADJP (JJ cartoonlike)))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="15">outlandish</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="1">Like</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">outings</governor>
+            <dependent idx="2">most</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">outings</governor>
+            <dependent idx="3">Bond</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="1">Like</governor>
+            <dependent idx="4">outings</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="4">outings</governor>
+            <dependent idx="5">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">years</governor>
+            <dependent idx="6">recent</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="5">in</governor>
+            <dependent idx="7">years</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="9">some</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="9">some</governor>
+            <dependent idx="10">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">stunts</governor>
+            <dependent idx="11">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="10">of</governor>
+            <dependent idx="12">stunts</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="13">are</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="14">so</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="18">border</governor>
+            <dependent idx="16">that</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">border</governor>
+            <dependent idx="17">they</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="18">border</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="18">border</governor>
+            <dependent idx="19">on</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="21">cartoonlike</governor>
+            <dependent idx="20">being</dependent>
+          </dep>
+          <dep type="pcomp">
+            <governor idx="19">on</governor>
+            <dependent idx="21">cartoonlike</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="15">outlandish</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">outings</governor>
+            <dependent idx="2">most</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">outings</governor>
+            <dependent idx="3">Bond</dependent>
+          </dep>
+          <dep type="prep_like">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="4">outings</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">years</governor>
+            <dependent idx="6">recent</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="4">outings</governor>
+            <dependent idx="7">years</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="9">some</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">stunts</governor>
+            <dependent idx="11">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="9">some</governor>
+            <dependent idx="12">stunts</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="13">are</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="14">so</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="18">border</governor>
+            <dependent idx="16">that</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">border</governor>
+            <dependent idx="17">they</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="18">border</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="21">cartoonlike</governor>
+            <dependent idx="20">being</dependent>
+          </dep>
+          <dep type="prepc_on">
+            <governor idx="18">border</governor>
+            <dependent idx="21">cartoonlike</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="15">outlandish</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">outings</governor>
+            <dependent idx="2">most</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">outings</governor>
+            <dependent idx="3">Bond</dependent>
+          </dep>
+          <dep type="prep_like">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="4">outings</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">years</governor>
+            <dependent idx="6">recent</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="4">outings</governor>
+            <dependent idx="7">years</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="9">some</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">stunts</governor>
+            <dependent idx="11">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="9">some</governor>
+            <dependent idx="12">stunts</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="13">are</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="14">so</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="18">border</governor>
+            <dependent idx="16">that</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">border</governor>
+            <dependent idx="17">they</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="15">outlandish</governor>
+            <dependent idx="18">border</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="21">cartoonlike</governor>
+            <dependent idx="20">being</dependent>
+          </dep>
+          <dep type="prepc_on">
+            <governor idx="18">border</governor>
+            <dependent idx="21">cartoonlike</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>9</start>
+          <end>13</end>
+          <head>9</head>
+          <text>some of the stunts</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>17</start>
+          <end>18</end>
+          <head>17</head>
+          <text>they</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>It</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>'s</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>not</word>
+            <lemma>not</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>exactly</word>
+            <lemma>exactly</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>gourmet</word>
+            <lemma>gourmet</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>meal</word>
+            <lemma>meal</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>but</word>
+            <lemma>but</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>fare</word>
+            <lemma>fare</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>fair</word>
+            <lemma>fair</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>even</word>
+            <lemma>even</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>coming</word>
+            <lemma>come</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>67</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>68</CharacterOffsetBegin>
+            <CharacterOffsetEnd>72</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>73</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>drive-thru</word>
+            <lemma>drive-thru</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>87</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>88</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (RB not) (ADVP (RB exactly)) (NP (DT a) (NN gourmet) (NN meal)))) (CC but) (S (NP (DT the) (NN fare)) (VP (VBZ is) (ADJP (JJ fair)) (, ,) (S (ADVP (RB even)) (VP (VBG coming) (PP (IN from) (NP (DT the) (NN drive-thru))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">meal</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">meal</governor>
+            <dependent idx="1">It</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="7">meal</governor>
+            <dependent idx="2">'s</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="7">meal</governor>
+            <dependent idx="3">not</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">meal</governor>
+            <dependent idx="4">exactly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">meal</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">meal</governor>
+            <dependent idx="6">gourmet</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="7">meal</governor>
+            <dependent idx="8">but</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">fare</governor>
+            <dependent idx="9">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">fair</governor>
+            <dependent idx="10">fare</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="12">fair</governor>
+            <dependent idx="11">is</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">meal</governor>
+            <dependent idx="12">fair</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">coming</governor>
+            <dependent idx="14">even</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="12">fair</governor>
+            <dependent idx="15">coming</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="15">coming</governor>
+            <dependent idx="16">from</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="18">drive-thru</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="16">from</governor>
+            <dependent idx="18">drive-thru</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">meal</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">meal</governor>
+            <dependent idx="1">It</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="7">meal</governor>
+            <dependent idx="2">'s</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="7">meal</governor>
+            <dependent idx="3">not</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">meal</governor>
+            <dependent idx="4">exactly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">meal</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">meal</governor>
+            <dependent idx="6">gourmet</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">fare</governor>
+            <dependent idx="9">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">fair</governor>
+            <dependent idx="10">fare</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="12">fair</governor>
+            <dependent idx="11">is</dependent>
+          </dep>
+          <dep type="conj_but">
+            <governor idx="7">meal</governor>
+            <dependent idx="12">fair</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">coming</governor>
+            <dependent idx="14">even</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="12">fair</governor>
+            <dependent idx="15">coming</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="18">drive-thru</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="prep_from">
+            <governor idx="15">coming</governor>
+            <dependent idx="18">drive-thru</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">meal</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">meal</governor>
+            <dependent idx="1">It</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="7">meal</governor>
+            <dependent idx="2">'s</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="7">meal</governor>
+            <dependent idx="3">not</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">meal</governor>
+            <dependent idx="4">exactly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">meal</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">meal</governor>
+            <dependent idx="6">gourmet</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">fare</governor>
+            <dependent idx="9">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">fair</governor>
+            <dependent idx="10">fare</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="12">fair</governor>
+            <dependent idx="11">is</dependent>
+          </dep>
+          <dep type="conj_but">
+            <governor idx="7">meal</governor>
+            <dependent idx="12">fair</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">coming</governor>
+            <dependent idx="14">even</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="12">fair</governor>
+            <dependent idx="15">coming</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="18">drive-thru</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="prep_from">
+            <governor idx="15">coming</governor>
+            <dependent idx="18">drive-thru</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>5</start>
+          <end>8</end>
+          <head>7</head>
+          <text>a gourmet meal</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>1</start>
+          <end>2</end>
+          <head>1</head>
+          <text>It</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

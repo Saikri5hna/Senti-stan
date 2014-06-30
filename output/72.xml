@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>In</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>normal</word>
+            <lemma>normal</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>screen</word>
+            <lemma>screen</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>process</word>
+            <lemma>process</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>these</word>
+            <lemma>these</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>bromides</word>
+            <lemma>bromide</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>would</word>
+            <lemma>would</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>be</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>barely</word>
+            <lemma>barely</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>enough</word>
+            <lemma>enough</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>69</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>sustain</word>
+            <lemma>sustain</lemma>
+            <CharacterOffsetBegin>70</CharacterOffsetBegin>
+            <CharacterOffsetEnd>77</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>an</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>78</CharacterOffsetBegin>
+            <CharacterOffsetEnd>80</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>interstitial</word>
+            <lemma>interstitial</lemma>
+            <CharacterOffsetBegin>81</CharacterOffsetBegin>
+            <CharacterOffsetEnd>93</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>program</word>
+            <lemma>program</lemma>
+            <CharacterOffsetBegin>94</CharacterOffsetBegin>
+            <CharacterOffsetEnd>101</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>102</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>108</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>Discovery</word>
+            <lemma>Discovery</lemma>
+            <CharacterOffsetBegin>109</CharacterOffsetBegin>
+            <CharacterOffsetEnd>118</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>Channel</word>
+            <lemma>Channel</lemma>
+            <CharacterOffsetBegin>119</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>127</CharacterOffsetBegin>
+            <CharacterOffsetEnd>128</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (PP (IN In) (NP (DT a) (JJ normal) (NN screen) (NN process))) (, ,) (NP (DT these) (NNS bromides)) (VP (MD would) (VP (VB be) (ADJP (RB barely) (RB enough) (S (VP (TO to) (VP (VB sustain) (NP (DT an) (JJ interstitial) (NN program)) (PP (IN on) (NP (DT the) (NNP Discovery) (NNP Channel))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="12">enough</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="12">enough</governor>
+            <dependent idx="1">In</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">process</governor>
+            <dependent idx="2">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">process</governor>
+            <dependent idx="3">normal</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="5">process</governor>
+            <dependent idx="4">screen</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="1">In</governor>
+            <dependent idx="5">process</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">bromides</governor>
+            <dependent idx="7">these</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">enough</governor>
+            <dependent idx="8">bromides</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">enough</governor>
+            <dependent idx="9">would</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="12">enough</governor>
+            <dependent idx="10">be</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">enough</governor>
+            <dependent idx="11">barely</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="14">sustain</governor>
+            <dependent idx="13">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="12">enough</governor>
+            <dependent idx="14">sustain</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">program</governor>
+            <dependent idx="15">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">program</governor>
+            <dependent idx="16">interstitial</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="14">sustain</governor>
+            <dependent idx="17">program</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="14">sustain</governor>
+            <dependent idx="18">on</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">Channel</governor>
+            <dependent idx="19">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">Channel</governor>
+            <dependent idx="20">Discovery</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="18">on</governor>
+            <dependent idx="21">Channel</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="12">enough</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">process</governor>
+            <dependent idx="2">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">process</governor>
+            <dependent idx="3">normal</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="5">process</governor>
+            <dependent idx="4">screen</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="12">enough</governor>
+            <dependent idx="5">process</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">bromides</governor>
+            <dependent idx="7">these</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">enough</governor>
+            <dependent idx="8">bromides</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">enough</governor>
+            <dependent idx="9">would</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="12">enough</governor>
+            <dependent idx="10">be</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">enough</governor>
+            <dependent idx="11">barely</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="14">sustain</governor>
+            <dependent idx="13">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="12">enough</governor>
+            <dependent idx="14">sustain</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">program</governor>
+            <dependent idx="15">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">program</governor>
+            <dependent idx="16">interstitial</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="14">sustain</governor>
+            <dependent idx="17">program</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">Channel</governor>
+            <dependent idx="19">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">Channel</governor>
+            <dependent idx="20">Discovery</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="14">sustain</governor>
+            <dependent idx="21">Channel</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="12">enough</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">process</governor>
+            <dependent idx="2">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">process</governor>
+            <dependent idx="3">normal</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="5">process</governor>
+            <dependent idx="4">screen</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="12">enough</governor>
+            <dependent idx="5">process</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">bromides</governor>
+            <dependent idx="7">these</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">enough</governor>
+            <dependent idx="8">bromides</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">enough</governor>
+            <dependent idx="9">would</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="12">enough</governor>
+            <dependent idx="10">be</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">enough</governor>
+            <dependent idx="11">barely</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="14">sustain</governor>
+            <dependent idx="13">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="12">enough</governor>
+            <dependent idx="14">sustain</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">program</governor>
+            <dependent idx="15">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">program</governor>
+            <dependent idx="16">interstitial</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="14">sustain</governor>
+            <dependent idx="17">program</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">Channel</governor>
+            <dependent idx="19">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">Channel</governor>
+            <dependent idx="20">Discovery</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="14">sustain</governor>
+            <dependent idx="21">Channel</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

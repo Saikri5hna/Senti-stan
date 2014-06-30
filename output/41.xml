@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>animated</word>
+            <lemma>animated</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>subplot</word>
+            <lemma>subplot</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>keenly</word>
+            <lemma>keenly</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>depicts</word>
+            <lemma>depict</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>inner</word>
+            <lemma>inner</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>struggles</word>
+            <lemma>struggle</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>our</word>
+            <lemma>we</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>adolescent</word>
+            <lemma>adolescent</lemma>
+            <CharacterOffsetBegin>63</CharacterOffsetBegin>
+            <CharacterOffsetEnd>73</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>heroes</word>
+            <lemma>hero</lemma>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>80</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>-</word>
+            <lemma>-</lemma>
+            <CharacterOffsetBegin>81</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>:</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>insecure</word>
+            <lemma>insecure</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>93</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>uncontrolled</word>
+            <lemma>uncontrolled</lemma>
+            <CharacterOffsetBegin>94</CharacterOffsetBegin>
+            <CharacterOffsetEnd>106</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>107</CharacterOffsetBegin>
+            <CharacterOffsetEnd>108</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>109</CharacterOffsetBegin>
+            <CharacterOffsetEnd>112</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>intense</word>
+            <lemma>intense</lemma>
+            <CharacterOffsetBegin>113</CharacterOffsetBegin>
+            <CharacterOffsetEnd>120</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>122</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT The) (JJ animated) (NN subplot)) (ADVP (RB keenly)) (VP (VBZ depicts) (NP (NP (NP (DT the) (JJ inner) (NNS struggles)) (PP (IN of) (NP (PRP$ our) (JJ adolescent) (NNS heroes)))) (: -) (NP (NN insecure)) (, ,) (ADJP (JJ uncontrolled) (, ,) (CC and) (JJ intense)))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">depicts</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">subplot</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">subplot</governor>
+            <dependent idx="2">animated</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">depicts</governor>
+            <dependent idx="3">subplot</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">depicts</governor>
+            <dependent idx="4">keenly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">struggles</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">struggles</governor>
+            <dependent idx="7">inner</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">depicts</governor>
+            <dependent idx="8">struggles</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="8">struggles</governor>
+            <dependent idx="9">of</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="12">heroes</governor>
+            <dependent idx="10">our</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">heroes</governor>
+            <dependent idx="11">adolescent</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="9">of</governor>
+            <dependent idx="12">heroes</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">struggles</governor>
+            <dependent idx="14">insecure</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">struggles</governor>
+            <dependent idx="16">uncontrolled</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="16">uncontrolled</governor>
+            <dependent idx="18">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="16">uncontrolled</governor>
+            <dependent idx="19">intense</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">depicts</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">subplot</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">subplot</governor>
+            <dependent idx="2">animated</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">depicts</governor>
+            <dependent idx="3">subplot</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">depicts</governor>
+            <dependent idx="4">keenly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">struggles</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">struggles</governor>
+            <dependent idx="7">inner</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">depicts</governor>
+            <dependent idx="8">struggles</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="12">heroes</governor>
+            <dependent idx="10">our</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">heroes</governor>
+            <dependent idx="11">adolescent</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="8">struggles</governor>
+            <dependent idx="12">heroes</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">struggles</governor>
+            <dependent idx="14">insecure</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">struggles</governor>
+            <dependent idx="16">uncontrolled</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="16">uncontrolled</governor>
+            <dependent idx="19">intense</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">depicts</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">subplot</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">subplot</governor>
+            <dependent idx="2">animated</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">depicts</governor>
+            <dependent idx="3">subplot</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">depicts</governor>
+            <dependent idx="4">keenly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">struggles</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">struggles</governor>
+            <dependent idx="7">inner</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">depicts</governor>
+            <dependent idx="8">struggles</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="12">heroes</governor>
+            <dependent idx="10">our</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">heroes</governor>
+            <dependent idx="11">adolescent</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="8">struggles</governor>
+            <dependent idx="12">heroes</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">struggles</governor>
+            <dependent idx="14">insecure</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">struggles</governor>
+            <dependent idx="16">uncontrolled</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">struggles</governor>
+            <dependent idx="19">intense</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="16">uncontrolled</governor>
+            <dependent idx="19">intense</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

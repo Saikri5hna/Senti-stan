@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Chicago</word>
+            <lemma>Chicago</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>sophisticated</word>
+            <lemma>sophisticated</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>brash</word>
+            <lemma>brash</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>sardonic</word>
+            <lemma>sardonic</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>completely</word>
+            <lemma>completely</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>joyful</word>
+            <lemma>joyful</lemma>
+            <CharacterOffsetBegin>57</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>its</word>
+            <lemma>its</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>execution</word>
+            <lemma>execution</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>80</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>81</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP Chicago)) (VP (VBZ is) (ADJP (JJ sophisticated) (, ,) (JJ brash) (, ,) (JJ sardonic) (, ,) (RB completely) (JJ joyful)) (PP (IN in) (NP (PRP$ its) (NN execution)))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">joyful</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">joyful</governor>
+            <dependent idx="1">Chicago</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">joyful</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">joyful</governor>
+            <dependent idx="3">sophisticated</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">joyful</governor>
+            <dependent idx="5">brash</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">joyful</governor>
+            <dependent idx="7">sardonic</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="10">joyful</governor>
+            <dependent idx="9">completely</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="10">joyful</governor>
+            <dependent idx="11">in</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="13">execution</governor>
+            <dependent idx="12">its</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="11">in</governor>
+            <dependent idx="13">execution</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">joyful</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">joyful</governor>
+            <dependent idx="1">Chicago</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">joyful</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">joyful</governor>
+            <dependent idx="3">sophisticated</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">joyful</governor>
+            <dependent idx="5">brash</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">joyful</governor>
+            <dependent idx="7">sardonic</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="10">joyful</governor>
+            <dependent idx="9">completely</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="13">execution</governor>
+            <dependent idx="12">its</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="10">joyful</governor>
+            <dependent idx="13">execution</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">joyful</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">joyful</governor>
+            <dependent idx="1">Chicago</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">joyful</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">joyful</governor>
+            <dependent idx="3">sophisticated</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">joyful</governor>
+            <dependent idx="5">brash</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">joyful</governor>
+            <dependent idx="7">sardonic</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="10">joyful</governor>
+            <dependent idx="9">completely</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="13">execution</governor>
+            <dependent idx="12">its</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="10">joyful</governor>
+            <dependent idx="13">execution</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>1</start>
+          <end>2</end>
+          <head>1</head>
+          <text>Chicago</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>12</start>
+          <end>13</end>
+          <head>12</head>
+          <text>its</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

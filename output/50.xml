@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>At</word>
+            <lemma>at</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>heart</word>
+            <lemma>heart</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>movie</word>
+            <lemma>movie</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>23</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>deftly</word>
+            <lemma>deftly</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>wrought</word>
+            <lemma>work</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>suspense</word>
+            <lemma>suspense</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>yarn</word>
+            <lemma>yarn</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>whose</word>
+            <lemma>whose</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>WP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>richer</word>
+            <lemma>richer</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>JJR</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>shadings</word>
+            <lemma>shading</lemma>
+            <CharacterOffsetBegin>66</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>work</word>
+            <lemma>work</lemma>
+            <CharacterOffsetBegin>75</CharacterOffsetBegin>
+            <CharacterOffsetEnd>79</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>80</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>coloring</word>
+            <lemma>color</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>rather</word>
+            <lemma>rather</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>98</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>than</word>
+            <lemma>than</lemma>
+            <CharacterOffsetBegin>99</CharacterOffsetBegin>
+            <CharacterOffsetEnd>103</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>substance</word>
+            <lemma>substance</lemma>
+            <CharacterOffsetBegin>104</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>115</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (PP (IN At) (NP (NN heart))) (NP (DT the) (NN movie)) (VP (VBZ is) (NP (DT a) (ADJP (RB deftly) (VBN wrought)) (NN suspense) (NN yarn) (SBAR (WP$ whose) (S (NP (JJR richer) (NNS shadings)) (VP (VBP work) (PP (IN as) (S (VP (VBG coloring) (PP (RB rather) (IN than) (NP (NN substance))))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">yarn</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="10">yarn</governor>
+            <dependent idx="1">At</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="1">At</governor>
+            <dependent idx="2">heart</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">movie</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">yarn</governor>
+            <dependent idx="4">movie</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">yarn</governor>
+            <dependent idx="5">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">yarn</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">wrought</governor>
+            <dependent idx="7">deftly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">yarn</governor>
+            <dependent idx="8">wrought</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="10">yarn</governor>
+            <dependent idx="9">suspense</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">work</governor>
+            <dependent idx="11">whose</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">shadings</governor>
+            <dependent idx="12">richer</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">work</governor>
+            <dependent idx="13">shadings</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="10">yarn</governor>
+            <dependent idx="14">work</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="14">work</governor>
+            <dependent idx="15">as</dependent>
+          </dep>
+          <dep type="pcomp">
+            <governor idx="15">as</governor>
+            <dependent idx="16">coloring</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="18">than</governor>
+            <dependent idx="17">rather</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="16">coloring</governor>
+            <dependent idx="18">than</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="18">than</governor>
+            <dependent idx="19">substance</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">yarn</dependent>
+          </dep>
+          <dep type="prep_at">
+            <governor idx="10">yarn</governor>
+            <dependent idx="2">heart</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">movie</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">yarn</governor>
+            <dependent idx="4">movie</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">yarn</governor>
+            <dependent idx="5">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">yarn</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">wrought</governor>
+            <dependent idx="7">deftly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">yarn</governor>
+            <dependent idx="8">wrought</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="10">yarn</governor>
+            <dependent idx="9">suspense</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">work</governor>
+            <dependent idx="11">whose</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">shadings</governor>
+            <dependent idx="12">richer</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">work</governor>
+            <dependent idx="13">shadings</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="10">yarn</governor>
+            <dependent idx="14">work</dependent>
+          </dep>
+          <dep type="prepc_as">
+            <governor idx="14">work</governor>
+            <dependent idx="16">coloring</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="16">coloring</governor>
+            <dependent idx="17">rather</dependent>
+          </dep>
+          <dep type="prep_than">
+            <governor idx="16">coloring</governor>
+            <dependent idx="19">substance</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">yarn</dependent>
+          </dep>
+          <dep type="prep_at">
+            <governor idx="10">yarn</governor>
+            <dependent idx="2">heart</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">movie</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">yarn</governor>
+            <dependent idx="4">movie</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">yarn</governor>
+            <dependent idx="5">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">yarn</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">wrought</governor>
+            <dependent idx="7">deftly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">yarn</governor>
+            <dependent idx="8">wrought</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="10">yarn</governor>
+            <dependent idx="9">suspense</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">work</governor>
+            <dependent idx="11">whose</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">shadings</governor>
+            <dependent idx="12">richer</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">work</governor>
+            <dependent idx="13">shadings</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="10">yarn</governor>
+            <dependent idx="14">work</dependent>
+          </dep>
+          <dep type="prepc_as">
+            <governor idx="14">work</governor>
+            <dependent idx="16">coloring</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="16">coloring</governor>
+            <dependent idx="17">rather</dependent>
+          </dep>
+          <dep type="prep_than">
+            <governor idx="16">coloring</governor>
+            <dependent idx="19">substance</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>6</start>
+          <end>20</end>
+          <head>10</head>
+          <text>a deftly wrought suspense yarn whose richer shadings work as coloring rather than substance</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>3</start>
+          <end>5</end>
+          <head>4</head>
+          <text>the movie</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

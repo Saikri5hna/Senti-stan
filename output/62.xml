@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>While</word>
+            <lemma>while</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>Isle</word>
+            <lemma>Isle</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>both</word>
+            <lemma>both</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>preposterous</word>
+            <lemma>preposterous</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>thoroughly</word>
+            <lemma>thoroughly</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>misogynistic</word>
+            <lemma>misogynistic</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>its</word>
+            <lemma>its</lemma>
+            <CharacterOffsetBegin>66</CharacterOffsetBegin>
+            <CharacterOffsetEnd>69</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>vistas</word>
+            <lemma>vista</lemma>
+            <CharacterOffsetBegin>70</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>are</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>80</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>incredibly</word>
+            <lemma>incredibly</lemma>
+            <CharacterOffsetBegin>81</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>beautiful</word>
+            <lemma>beautiful</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>101</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>102</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>look</word>
+            <lemma>look</lemma>
+            <CharacterOffsetBegin>105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>109</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>at</word>
+            <lemma>at</lemma>
+            <CharacterOffsetBegin>110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>112</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>113</CharacterOffsetBegin>
+            <CharacterOffsetEnd>114</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (SBAR (IN While) (S (NP (DT The) (NNP Isle)) (VP (VBZ is) (ADJP (DT both) (ADJP (JJ preposterous)) (CC and) (ADJP (RB thoroughly) (JJ misogynistic)))))) (, ,) (NP (PRP$ its) (NNS vistas)) (VP (VBP are) (ADJP (RB incredibly) (JJ beautiful) (S (VP (TO to) (VP (VB look) (PP (IN at))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="15">beautiful</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">Isle</governor>
+            <dependent idx="2">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="3">Isle</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="4">is</dependent>
+          </dep>
+          <dep type="preconj">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="5">both</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="6">preposterous</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="9">misogynistic</governor>
+            <dependent idx="8">thoroughly</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="9">misogynistic</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="12">vistas</governor>
+            <dependent idx="11">its</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="12">vistas</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="13">are</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="14">incredibly</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="17">look</governor>
+            <dependent idx="16">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="17">look</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="17">look</governor>
+            <dependent idx="18">at</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="15">beautiful</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">Isle</governor>
+            <dependent idx="2">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="3">Isle</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="4">is</dependent>
+          </dep>
+          <dep type="preconj">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="5">both</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="6">preposterous</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="9">misogynistic</governor>
+            <dependent idx="8">thoroughly</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="9">misogynistic</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="12">vistas</governor>
+            <dependent idx="11">its</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="12">vistas</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="13">are</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="14">incredibly</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="17">look</governor>
+            <dependent idx="16">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="17">look</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="17">look</governor>
+            <dependent idx="18">at</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="15">beautiful</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">Isle</governor>
+            <dependent idx="2">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="3">Isle</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">misogynistic</governor>
+            <dependent idx="3">Isle</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="4">is</dependent>
+          </dep>
+          <dep type="preconj">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="5">both</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="6">preposterous</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="9">misogynistic</governor>
+            <dependent idx="8">thoroughly</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="6">preposterous</governor>
+            <dependent idx="9">misogynistic</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="9">misogynistic</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="12">vistas</governor>
+            <dependent idx="11">its</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="12">vistas</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="13">are</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="14">incredibly</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="17">look</governor>
+            <dependent idx="16">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="15">beautiful</governor>
+            <dependent idx="17">look</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="17">look</governor>
+            <dependent idx="18">at</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>2</start>
+          <end>4</end>
+          <head>3</head>
+          <text>The Isle</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>11</start>
+          <end>12</end>
+          <head>11</head>
+          <text>its</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

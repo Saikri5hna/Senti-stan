@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Occasionally</word>
+            <lemma>occasionally</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>melodramatic</word>
+            <lemma>melodramatic</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>'s</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>also</word>
+            <lemma>also</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>extremely</word>
+            <lemma>extremely</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>effective</word>
+            <lemma>effective</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (ADVP (RB Occasionally)) (ADJP (JJ melodramatic))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB also)) (ADJP (RB extremely) (JJ effective))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="8">effective</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="2">melodramatic</governor>
+            <dependent idx="1">Occasionally</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="8">effective</governor>
+            <dependent idx="2">melodramatic</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">effective</governor>
+            <dependent idx="4">it</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="8">effective</governor>
+            <dependent idx="5">'s</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">effective</governor>
+            <dependent idx="6">also</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">effective</governor>
+            <dependent idx="7">extremely</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="8">effective</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="2">melodramatic</governor>
+            <dependent idx="1">Occasionally</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="8">effective</governor>
+            <dependent idx="2">melodramatic</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">effective</governor>
+            <dependent idx="4">it</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="8">effective</governor>
+            <dependent idx="5">'s</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">effective</governor>
+            <dependent idx="6">also</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">effective</governor>
+            <dependent idx="7">extremely</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="8">effective</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="2">melodramatic</governor>
+            <dependent idx="1">Occasionally</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="8">effective</governor>
+            <dependent idx="2">melodramatic</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">effective</governor>
+            <dependent idx="4">it</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="8">effective</governor>
+            <dependent idx="5">'s</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">effective</governor>
+            <dependent idx="6">also</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">effective</governor>
+            <dependent idx="7">extremely</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Sandra</word>
+            <lemma>Sandra</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>Nettelbeck</word>
+            <lemma>Nettelbeck</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>beautifully</word>
+            <lemma>beautifully</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>orchestrates</word>
+            <lemma>orchestrate</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>transformation</word>
+            <lemma>transformation</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>61</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>chilly</word>
+            <lemma>chilly</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>76</CharacterOffsetBegin>
+            <CharacterOffsetEnd>77</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>neurotic</word>
+            <lemma>neurotic</lemma>
+            <CharacterOffsetBegin>78</CharacterOffsetBegin>
+            <CharacterOffsetEnd>86</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>87</CharacterOffsetBegin>
+            <CharacterOffsetEnd>88</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>89</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>self-absorbed</word>
+            <lemma>self-absorbed</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>106</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>Martha</word>
+            <lemma>Martha</lemma>
+            <CharacterOffsetBegin>107</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>116</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>her</word>
+            <lemma>she</lemma>
+            <CharacterOffsetBegin>117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>120</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>heart</word>
+            <lemma>heart</lemma>
+            <CharacterOffsetBegin>121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>begins</word>
+            <lemma>begin</lemma>
+            <CharacterOffsetBegin>127</CharacterOffsetBegin>
+            <CharacterOffsetEnd>133</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>134</CharacterOffsetBegin>
+            <CharacterOffsetEnd>136</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>open</word>
+            <lemma>open</lemma>
+            <CharacterOffsetBegin>137</CharacterOffsetBegin>
+            <CharacterOffsetEnd>141</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>142</CharacterOffsetBegin>
+            <CharacterOffsetEnd>143</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (NP (NNP Sandra) (NNP Nettelbeck)) (ADVP (RB beautifully)) (VP (VBZ orchestrates) (S (NP (NP (DT the) (NN transformation)) (PP (IN of) (NP (DT the) (JJ chilly)))) (, ,) (ADJP (JJ neurotic))))) (, ,) (CC and) (S (NP (NP (JJ self-absorbed) (NNP Martha)) (PP (IN as) (NP (PRP$ her) (NN heart)))) (VP (VBZ begins) (S (VP (TO to) (VP (VB open)))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">orchestrates</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="2">Nettelbeck</governor>
+            <dependent idx="1">Sandra</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="2">Nettelbeck</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="3">beautifully</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">transformation</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">neurotic</governor>
+            <dependent idx="6">transformation</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="6">transformation</governor>
+            <dependent idx="7">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">chilly</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="7">of</governor>
+            <dependent idx="9">chilly</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="11">neurotic</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">Martha</governor>
+            <dependent idx="14">self-absorbed</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">begins</governor>
+            <dependent idx="15">Martha</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="15">Martha</governor>
+            <dependent idx="16">as</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">heart</governor>
+            <dependent idx="17">her</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="16">as</governor>
+            <dependent idx="18">heart</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="19">begins</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">open</governor>
+            <dependent idx="20">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="19">begins</governor>
+            <dependent idx="21">open</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">orchestrates</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="2">Nettelbeck</governor>
+            <dependent idx="1">Sandra</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="2">Nettelbeck</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="3">beautifully</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">transformation</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">neurotic</governor>
+            <dependent idx="6">transformation</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">chilly</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="6">transformation</governor>
+            <dependent idx="9">chilly</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="11">neurotic</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">Martha</governor>
+            <dependent idx="14">self-absorbed</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">begins</governor>
+            <dependent idx="15">Martha</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">heart</governor>
+            <dependent idx="17">her</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="15">Martha</governor>
+            <dependent idx="18">heart</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="19">begins</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">open</governor>
+            <dependent idx="20">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="19">begins</governor>
+            <dependent idx="21">open</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">orchestrates</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="2">Nettelbeck</governor>
+            <dependent idx="1">Sandra</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="2">Nettelbeck</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="3">beautifully</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">transformation</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">neurotic</governor>
+            <dependent idx="6">transformation</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">chilly</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="6">transformation</governor>
+            <dependent idx="9">chilly</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="11">neurotic</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">Martha</governor>
+            <dependent idx="14">self-absorbed</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">begins</governor>
+            <dependent idx="15">Martha</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">heart</governor>
+            <dependent idx="17">her</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="15">Martha</governor>
+            <dependent idx="18">heart</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="4">orchestrates</governor>
+            <dependent idx="19">begins</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">open</governor>
+            <dependent idx="20">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="19">begins</governor>
+            <dependent idx="21">open</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>1</start>
+          <end>3</end>
+          <head>2</head>
+          <text>Sandra Nettelbeck</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>17</start>
+          <end>18</end>
+          <head>17</head>
+          <text>her</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

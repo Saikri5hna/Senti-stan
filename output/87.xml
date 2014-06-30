@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Good</word>
+            <lemma>good</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>fun</word>
+            <lemma>fun</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>good</word>
+            <lemma>good</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>action</word>
+            <lemma>action</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>good</word>
+            <lemma>good</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>acting</word>
+            <lemma>acting</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>good</word>
+            <lemma>good</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>dialogue</word>
+            <lemma>dialogue</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>good</word>
+            <lemma>good</lemma>
+            <CharacterOffsetBegin>55</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>pace</word>
+            <lemma>pace</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>good</word>
+            <lemma>good</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>71</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>cinematography</word>
+            <lemma>cinematography</lemma>
+            <CharacterOffsetBegin>72</CharacterOffsetBegin>
+            <CharacterOffsetEnd>86</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>87</CharacterOffsetBegin>
+            <CharacterOffsetEnd>88</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (FRAG (INTJ (JJ Good) (NN fun)) (, ,) (NP (NP (JJ good) (NN action)) (, ,) (NP (JJ good) (NN acting)) (, ,) (NP (JJ good) (NN dialogue)) (, ,) (NP (JJ good) (NN pace)) (, ,) (NP (JJ good) (NN cinematography))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">action</dependent>
+          </dep>
+          <dep type="discourse">
+            <governor idx="5">action</governor>
+            <dependent idx="1">Good</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="1">Good</governor>
+            <dependent idx="2">fun</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">action</governor>
+            <dependent idx="4">good</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">acting</governor>
+            <dependent idx="7">good</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="5">action</governor>
+            <dependent idx="8">acting</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">dialogue</governor>
+            <dependent idx="10">good</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="5">action</governor>
+            <dependent idx="11">dialogue</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">pace</governor>
+            <dependent idx="13">good</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="5">action</governor>
+            <dependent idx="14">pace</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">cinematography</governor>
+            <dependent idx="16">good</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="5">action</governor>
+            <dependent idx="17">cinematography</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">action</dependent>
+          </dep>
+          <dep type="discourse">
+            <governor idx="5">action</governor>
+            <dependent idx="1">Good</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="1">Good</governor>
+            <dependent idx="2">fun</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">action</governor>
+            <dependent idx="4">good</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">acting</governor>
+            <dependent idx="7">good</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="5">action</governor>
+            <dependent idx="8">acting</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">dialogue</governor>
+            <dependent idx="10">good</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="5">action</governor>
+            <dependent idx="11">dialogue</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">pace</governor>
+            <dependent idx="13">good</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="5">action</governor>
+            <dependent idx="14">pace</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">cinematography</governor>
+            <dependent idx="16">good</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="5">action</governor>
+            <dependent idx="17">cinematography</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">action</dependent>
+          </dep>
+          <dep type="discourse">
+            <governor idx="5">action</governor>
+            <dependent idx="1">Good</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="1">Good</governor>
+            <dependent idx="2">fun</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">action</governor>
+            <dependent idx="4">good</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">acting</governor>
+            <dependent idx="7">good</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="5">action</governor>
+            <dependent idx="8">acting</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">dialogue</governor>
+            <dependent idx="10">good</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="5">action</governor>
+            <dependent idx="11">dialogue</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">pace</governor>
+            <dependent idx="13">good</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="5">action</governor>
+            <dependent idx="14">pace</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">cinematography</governor>
+            <dependent idx="16">good</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="5">action</governor>
+            <dependent idx="17">cinematography</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>
